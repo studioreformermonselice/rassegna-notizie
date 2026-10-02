@@ -1,0 +1,363 @@
+{
+ "aggiornato": "2026-10-02T21:17:01Z",
+ "note": "Generato dallo script di pubblicazione del sito",
+ "articoli": [
+  {
+   "numero": 1,
+   "titolo": "La Fascia: la Rete che Tiene Insieme il Corpo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-01-fascia-rete-corpo.html",
+   "data": "2026-01",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 2,
+   "titolo": "Le Linee Mio-Fasciali: Perché il Dolore Migra",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-02-linee-miofasciali.html",
+   "data": "2026-01",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 3,
+   "titolo": "Mobilità Articolare e Età: Cosa Dice Davvero la Ricerca",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-03-mobilita-articolare-eta.html",
+   "data": "2026-02",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 4,
+   "titolo": "Dopo i 45 Anni: Perché la Rigidità Non È Normale",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-04-dopo-45-rigidita.html",
+   "data": "2026-03",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 5,
+   "titolo": "Fascia, Nervi e Rigidità Over-45: la Connessione che Spiega Tutto",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-05-fascia-nervi-rigidita.html",
+   "data": "2026-04",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 6,
+   "titolo": "Come Misuriamo Ciò Che Conta: YOMIDO e le Compensazioni Reali",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-06-yomido-misurazioni.html",
+   "data": "2026-05",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 7,
+   "titolo": "Psoas: Anatomia, Accorciamento e Come Allungarlo con il Reformer",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-07-psoas-anatomia-accorciamento-reformer.html",
+   "data": "2026-06",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 8,
+   "titolo": "Menisco Suturato: i Tempi Veri del Recupero",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-08-menisco-suturato-recupero.html",
+   "data": "2026-07",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 9,
+   "titolo": "Gambe Gonfie: Perché Succede Anche se ti Alleni",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-09-gambe-gonfie-circolazione.html",
+   "data": "2026-08",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 10,
+   "titolo": "Il Quinto Pilastro: Perché il Recupero Non Era Mai un Intervento a Sé",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-10-quinto-pilastro-recupero.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 11,
+   "titolo": "La Molla Leggera Lavora Più di Quella Pesante",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-11-molla-leggera-emg.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 12,
+   "titolo": "Osteoporosi: Cosa Funziona Davvero (e Cosa No)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-12-osteoporosi-cosa-funziona.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 13,
+   "titolo": "Dolore Lombare Cronico: Cosa Cambia Quando Lavori Anche su Sonno e Ansia",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-13-dolore-lombare-cronico-sonno.html",
+   "data": "2025-01",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 14,
+   "titolo": "Fibromialgia e Reformer: Cosa Dice la Ricerca (Con Onestà)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-14-fibromialgia-reformer.html",
+   "data": "2025-02",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 15,
+   "titolo": "Pavimento Pelvico: Cosa Funziona Davvero Contro l'Incontinenza",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-15-incontinenza-pavimento-pelvico.html",
+   "data": "2025-03",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 16,
+   "titolo": "Menopausa: Cosa Cambia con un Programma Strutturato su Sonno, Ansia e Affaticamento",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-16-menopausa-sonno-ansia.html",
+   "data": "2025-04",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 17,
+   "titolo": "Artrosi al Ginocchio: Cosa Dicono le Meta-Analisi più Recenti",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-17-artrosi-ginocchio-dolore-funzione.html",
+   "data": "2025-05",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 18,
+   "titolo": "Rischio Cadute: Cosa Dice la Ricerca Specifica sul Reformer",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-18-rischio-cadute-reformer.html",
+   "data": "2025-06",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 19,
+   "titolo": "Cifosi Dorsale: Cosa Dice la Ricerca sugli Over 60",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-19-cifosi-dorsale-postura.html",
+   "data": "2025-07",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 20,
+   "titolo": "Respirazione Diaframmatica: la Vera Base della Stabilità del Core",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-20-respirazione-diaframmatica-core.html",
+   "data": "2025-08",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 21,
+   "titolo": "Spalla e Cuffia dei Rotatori: Cosa Funziona Davvero",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-21-spalla-cuffia-rotatori.html",
+   "data": "2025-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 22,
+   "titolo": "Scoliosi: Cosa Dicono le Meta-Analisi Sull'Angolo di Cobb",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-22-scoliosi-cobb-angle.html",
+   "data": "2025-11",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 23,
+   "titolo": "Postura da Scrivania: Perché lo Smartworking Ti Sta Cambiando il Corpo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-23-postura-scrivania-smartworking.html",
+   "data": "2024-03",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 24,
+   "titolo": "Perché il Reformer Non È 'Solo per Donne'",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-24-pilates-non-solo-donne.html",
+   "data": "2024-05",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 25,
+   "titolo": "Mobilità della Caviglia: il Dettaglio che Cambia Come Cammini",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-25-mobilita-caviglia-cammino.html",
+   "data": "2024-07",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 26,
+   "titolo": "Come Ripartire Dopo uno Stop Lungo (Senza Farsi Male)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-26-ripartire-dopo-uno-stop.html",
+   "data": "2024-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 27,
+   "titolo": "Perché il Corpo Si 'Secca' con l'Età (e Cosa Fare)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-27-idratazione-tessuti-invecchiamento.html",
+   "data": "2024-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 28,
+   "titolo": "Il Respiro Come Primo Esercizio: Perché Lo Insegniamo per Primo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-28-respiro-primo-esercizio.html",
+   "data": "2024-12",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 29,
+   "titolo": "\"Quando Aumento le Molle?\" Perché la Scienza Dice il Contrario",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-29-quando-aumento-le-molle.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 30,
+   "titolo": "Perché il Reformer Costruisce Forza Vera Anche Senza Carichi Pesanti",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-30-reformer-forza-vera-senza-carichi-pesanti.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 31,
+   "titolo": "Tempo Sotto Tensione: la Progressione che Non Si Vede sulla Molla",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-31-tempo-sotto-tensione.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 32,
+   "titolo": "Carico Basso, Ripetizioni a Cedimento: la Forza Non Ha Bisogno del Bilanciere",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-32-carico-basso-cedimento.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 33,
+   "titolo": "Ma col Pilates Mi Tonifico? (La Parola non Esiste in Biologia)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-33-col-pilates-mi-tonifico.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 34,
+   "titolo": "Ma col Pilates Migliora Davvero la Postura? La Risposta Che Nessuno Ti Dà",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-34-migliora-davvero-la-postura.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 35,
+   "titolo": "Lipedema: Cosa Può Fare Davvero il Movimento (e Cosa Non Può)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-35-lipedema-movimento-cosa-serve.html",
+   "data": "2026-11",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 36,
+   "titolo": "Rassodare i Glutei: Cosa Serve Davvero (Non lo Squat all'Infinito)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-36-rassodare-i-glutei-cosa-serve-davvero.html",
+   "data": "2026-11",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 37,
+   "titolo": "Borsite all'Anca: le Vere Cause (Lavoro, Sedentarietà e Non Solo)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-37-borsite-anca-cause.html",
+   "data": "2026-02",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 38,
+   "titolo": "Osso e Sarcopenia in Menopausa: Perché il Carico Progressivo Non È Facoltativo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-38-osso-sarcopenia-menopausa.html",
+   "data": "2026-03",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 39,
+   "titolo": "Cambio di Forma in Menopausa: Perché \"Mangio Uguale ma Cambio\" È Vero",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-39-cambio-forma-menopausa-composizione-corporea.html",
+   "data": "2026-04",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 40,
+   "titolo": "Dolori Articolari e Tendinei in Menopausa: Cosa C'entra il Calo di Estrogeni",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-40-dolori-articolari-tendini-menopausa.html",
+   "data": "2026-05",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 41,
+   "titolo": "Sonno e Allenamento in Menopausa: Perché Dormire Male Cambia i Risultati",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-41-sonno-allenamento-menopausa.html",
+   "data": "2026-06",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 42,
+   "titolo": "Pavimento Pelvico e Incontinenza in Menopausa: Cosa Funziona Davvero",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-42-pavimento-pelvico-incontinenza-menopausa.html",
+   "data": "2026-07",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 43,
+   "titolo": "Il Reformer Crea Ristagni? Cosa Dice Davvero la Fisiologia",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-43-reformer-ristagni-circolazione.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 44,
+   "titolo": "Il Reformer Fa Venire le Gambe Grosse? Cosa Dice la Scienza",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-44-reformer-gambe-grosse-ipertrofia.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 45,
+   "titolo": "Braccia da Scaricatore con il Reformer? Non con Questo Metodo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-45-reformer-braccia-scaricatore.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 46,
+   "titolo": "Daoyin: 2000 Anni Prima della Stimolazione Neurale",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-46-daoyin-stimolazione-neurale.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 47,
+   "titolo": "L'Orologio del Daoyin: 2000 Anni Prima della Cronobiologia",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-47-orologio-energetico-cronobiologia.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 48,
+   "titolo": "Il Gallo d'Oro: un Equilibrio Vecchio di Duemila Anni",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-48-equilibrio-gallo-oro-rischio-cadute.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 49,
+   "titolo": "\"Non Strafare\": la Regola che il Reformer e il Daoyin Condividono",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-49-movimento-senza-strafare-molle-reformer.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 50,
+   "titolo": "Il Polso Come Punto di Attivazione: un'Idea Prima della Fascia",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-50-polso-punto-attivazione-fascia.html",
+   "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": null,
+   "titolo": "Articoli",
+   "url": "https://www.mirkoboaretto.it/articoli/index.html",
+   "data": "2026-09",
+   "data_da": "file"
+  }
+ ]
+}
