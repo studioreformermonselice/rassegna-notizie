@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-01T08:10:00Z",
+ "aggiornato": "2026-10-02T08:10:00Z",
  "note": "Aggiornato da Biscardi (agente Rassegna news)",
  "items": [
   {
@@ -385,6 +385,70 @@
    "pilastro": "Recupero Attivo & Rigenerazione",
    "cautela": "Dettagli non letti: solo titolo e data della pagina ufficiale.",
    "verifica": "Elenco news di brucespringsteen.net aperto: titolo, data e link controllati; testo completo non letto."
+  },
+  {
+   "id": "2026-10-02-dimagrimento-retatrutide-triumph2",
+   "settore": "Dimagrimento & Metabolismo",
+   "titolo": "Retatrutide in adulti con obesità e diabete di tipo 2 (TRIUMPH-2): trial di fase 3 randomizzato controllato",
+   "url": "https://doi.org/10.1016/S0140-6736(26)01861-1",
+   "fonte": "The Lancet - PubMed PMID 42810372",
+   "data": "2026-09-29",
+   "aggiunta": "2026-10-02",
+   "livello": "primaria",
+   "tipo_fonte": "paper PubMed",
+   "sintesi": "Trial di fase 3 su 1152 adulti con obesità e diabete di tipo 2: a 80 settimane il peso è sceso del 16,8% (9 mg) e del 18,8% (12 mg) contro il 5,1% del placebo. Gli eventi avversi più frequenti sono gastrointestinali (diarrea, nausea).",
+   "perche": "Utile per capire il contesto in cui i clienti sentono parlare di farmaci per il dimagrimento: sono terapie mediche, con effetti collaterali, da valutare solo con il proprio medico.",
+   "pilastro": "Recupero Attivo & Rigenerazione",
+   "cautela": "Farmaco ancora in sperimentazione, finanziato dall'industria; riguarda persone con diabete di tipo 2. Non è un tema di allenamento e non va letto come indicazione: decide il medico.",
+   "verifica": "Record PubMed 42810372 aperto via E-utilities: titolo, rivista, data 29/09/2026, DOI e abstract letti per intero."
+  },
+  {
+   "id": "2026-10-02-sonno-feedback-ai-calciatrici",
+   "settore": "Sonno & Recupero",
+   "titolo": "Feedback personalizzato sul sonno generato da IA in giovani calciatrici: trial pilota randomizzato",
+   "url": "https://doi.org/10.2196/101615",
+   "fonte": "JMIR Formative Research - PubMed PMID 42821993",
+   "data": "2026-10-01",
+   "aggiunta": "2026-10-02",
+   "livello": "primaria",
+   "tipo_fonte": "paper PubMed",
+   "sintesi": "Pilota su 25 calciatrici liceali: l'efficienza del sonno è migliorata di circa 2 punti percentuali nel gruppo con feedback personalizzato rispetto al controllo. Nessuna differenza su durata totale del sonno, risvegli notturni o gravità degli infortuni.",
+   "perche": "Mostra che anche piccoli aiuti sulla routine del sonno vengono studiati nelle sportive, ma per ora i dati sono solo preliminari.",
+   "pilastro": "Cronobiologia",
+   "cautela": "Pilota con 25 persone in una sola squadra, registrato retrospettivamente: gli autori parlano di risultati da confermare in uno studio più ampio.",
+   "verifica": "Record PubMed 42821993 aperto via E-utilities: titolo, data 01/10/2026, DOI e abstract letti per intero."
+  },
+  {
+   "id": "2026-10-02-dimagrimento-orario-allenamento-donne-obesita",
+   "settore": "Dimagrimento & Metabolismo",
+   "titolo": "Mattina o sera? L'orario non cambia gli effetti dell'allenamento combinato in donne con obesità",
+   "url": "https://doi.org/10.3389/fspor.2026.1914784",
+   "fonte": "Frontiers in Sports and Active Living - PubMed PMID 42812561",
+   "data": "2026-09-30",
+   "aggiunta": "2026-10-02",
+   "livello": "primaria",
+   "tipo_fonte": "paper PubMed",
+   "sintesi": "Trial randomizzato su 49 donne (18-50 anni): 8 settimane di allenamento combinato, 3 volte a settimana, mattina o sera. Forza massima e capacità cardiorespiratoria migliorano in entrambi i gruppi, senza una superiorità coerente di un orario; limitati i cambiamenti di composizione corporea.",
+   "perche": "Messaggio pratico e onesto: conta soprattutto allenarsi con regolarità, scegliendo l'orario che si riesce a mantenere.",
+   "pilastro": "Cronobiologia",
+   "cautela": "Campione piccolo, solo donne sedentarie con obesità, 8 settimane: non si estende ad altri gruppi.",
+   "verifica": "Record PubMed 42812561 aperto via E-utilities: titolo, anno 2026, DOI e abstract letti per intero; il giorno esatto di pubblicazione non è indicato (usata la data di indicizzazione 30/09/2026)."
+  },
+  {
+   "id": "2026-10-02-yoga-sarcoidosi-telerehab",
+   "settore": "Yoga e novità fitness",
+   "titolo": "Yoga e fisioterapia convenzionale in teleriabilitazione nella sarcoidosi di stadio II: trial randomizzato",
+   "url": "https://doi.org/10.36141/svdld.2026.18324",
+   "fonte": "Sarcoidosis Vasc Diffuse Lung Dis - PubMed PMID 42813304",
+   "data": "2026-09-30",
+   "aggiunta": "2026-10-02",
+   "livello": "primaria",
+   "tipo_fonte": "paper PubMed",
+   "sintesi": "Trial su 34 persone: 8 settimane di yoga o di fisioterapia, in aggiunta ad allenamento aerobico. In entrambi i gruppi migliorano capacità di esercizio, fatica, qualità del sonno e dispnea; i miglioramenti sono simili, con forza inspiratoria e test del respiro più marcati nella fisioterapia.",
+   "perche": "Un dato sobrio: lo yoga proposto a distanza è stato ben tollerato e ha dato benefici simili a un programma convenzionale, in una popolazione specifica.",
+   "pilastro": "Stimolazione Neurale",
+   "cautela": "Piccolo studio su pazienti con una malattia specifica, senza gruppo di controllo passivo: non generalizzabile e non è un'indicazione di cura.",
+   "verifica": "Record PubMed 42813304 aperto via E-utilities: titolo, data 30/09/2026, DOI e abstract letti."
   }
  ]
 }
