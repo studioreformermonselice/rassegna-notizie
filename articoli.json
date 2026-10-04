@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-02T22:23:46Z",
+ "aggiornato": "2026-10-04T13:27:29Z",
  "note": "Generato dallo script di pubblicazione del sito",
  "articoli": [
   {
@@ -350,6 +350,48 @@
    "titolo": "Il Polso Come Punto di Attivazione: un'Idea Prima della Fascia",
    "url": "https://www.mirkoboaretto.it/articoli/articolo-50-polso-punto-attivazione-fascia.html",
    "data": "2026-09",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 51,
+   "titolo": "Cammini e Resti Uguale. E Va Bene Così?",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-51-cammini-e-resti-uguale.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 52,
+   "titolo": "Il Tuo Passo Ha un'Età (e Non È Quella sulla Carta d'Identità)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-52-il-tuo-passo-ha-un-eta.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 53,
+   "titolo": "Seduto Otto Ore, Cammini con il Bacino Bloccato",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-53-seduto-otto-ore-bacino-bloccato.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 54,
+   "titolo": "La Spinta che Hai Smesso di Usare",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-54-la-spinta-del-piede.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 55,
+   "titolo": "Testa sul Telefono, Braccia Ferme: Come Cambia il Tuo Passo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-55-testa-sul-telefono-braccia-ferme.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 56,
+   "titolo": "A Che Ritmo Cammini? Il Numero che Conta",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-56-a-che-ritmo-cammini.html",
+   "data": "2026-10",
    "data_da": "mese nell'articolo"
   }
  ]
