@@ -1,6 +1,20 @@
 {
- "aggiornato": "2026-10-03T06:00:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news)",
+ "aggiornato": "2026-10-05T07:00:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news) | Scartate: Tai chi online non supervisionato per dolore al ginocchio: esercizi a casa da soli | Yoga nell'artrite reumatoide (revisione): clinico, voto 2 | Esercizio a casa nel linfedema post-mastectomia: esercizi da soli, fuori settore | Cinema e Musica Rock: nessuna novità legata ai pilastri | Segnalazioni e Google Alert: nessuna utile",
+ "giornate": [
+  {
+   "data": "2026-10-10",
+   "nome": "Giornata Mondiale della Salute Mentale",
+   "url": "https://www.who.int/campaigns/world-mental-health-day",
+   "fonte": "OMS",
+   "perche": "Si lega a sonno, respiro e recupero, cioè ai pilastri Cronobiologia e Recupero Attivo & Rigenerazione."
+  }
+ ],
+ "articolo_suggerito": {
+  "news_id": "2026-10-05-miofasciale-scivolamento-lombare-mre",
+  "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-02-linee-miofasciali.html",
+  "motivo": "La notizia misura la ridotta mobilità miofasciale lombare nel dolore cronico e si lega al tema dell'articolo su fasce e dolore che migra."
+ },
  "items": [
   {
    "id": "2026-09-29-pilates-metaanalisi-donne",
@@ -593,6 +607,78 @@
    "pilastro": "Cronobiologia",
    "cautela": "La pagina non indica data di uscita ne contenuto della Part 3. Nessuna novita verificabile su U2: u2.com ha risposto 429 (troppe richieste) e non e stato controllato.",
    "verifica": "Pagina ufficiale aperta: titolo e data 02/10/2026 letti; nessun altro dettaglio disponibile."
+  },
+  {
+   "id": "2026-10-05-miofasciale-scivolamento-lombare-mre",
+   "settore": "Yoga e novità fitness",
+   "titolo": "Mobilità miofasciale lombare ridotta nel mal di schiena cronico: misurata con elastografia MR",
+   "url": "https://doi.org/10.1186/s41747-026-00812-0",
+   "fonte": "European Radiology Experimental",
+   "data": "2026-10-01",
+   "aggiunta": "2026-10-05",
+   "livello": "primaria",
+   "tipo_fonte": "Studio osservazionale trasversale, 20 pazienti con lombalgia cronica e 41 volontari sani",
+   "sintesi": "Con una tecnica di imaging si misura lo scivolamento tra i piani muscolari lombari. Nei pazienti con più dolore lo scivolamento tra erettore spinale e multifido è ridotto rispetto ai sani.",
+   "perche": "Dà un dato oggettivo sul fatto che il piano miofasciale scivola meno quando c'è dolore: spunto per Mini Class e articolo sul lavoro miofasciale.",
+   "pilastro": "Nutrimento Miofasciale",
+   "voto_biscardi": 4,
+   "voto_motivo": "Parla direttamente di fasce e scivolamento, concetto spendibile con i clienti dello studio.",
+   "cautela": "Solo associazione: non dimostra che il lavoro miofasciale ripristini lo scivolamento. Campione piccolo, tecnica di ricerca.",
+   "verifica": "Record PubMed 42821152 e Crossref controllati: titolo, data 01/10/2026, abstract letto."
+  },
+  {
+   "id": "2026-10-05-equilibrio-riabilitazione-vestibolare-revisione",
+   "settore": "Equilibrio & Longevità",
+   "titolo": "Riabilitazione vestibolare nell'ipofunzione vestibolare: revisione sistematica di 8 studi",
+   "url": "https://doi.org/10.1007/s13760-026-03195-6",
+   "fonte": "Acta Neurologica Belgica",
+   "data": "2026-10-03",
+   "aggiunta": "2026-10-05",
+   "livello": "primaria",
+   "tipo_fonte": "Revisione sistematica PRISMA 2020, 8 studi e 397 partecipanti",
+   "sintesi": "La riabilitazione vestibolare si associa a miglioramenti di capogiro, equilibrio e mobilità funzionale. I miglioramenti maggiori compaiono nei programmi con realtà virtuale o gioco.",
+   "perche": "Conferma il valore degli esercizi vestibolari e di equilibrio, da usare come spunto per il lavoro di stimolazione neurale in studio.",
+   "pilastro": "Stimolazione Neurale",
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile per posizionare equilibrio e sistema vestibolare, ma riguarda pazienti con diagnosi e studi eterogenei.",
+   "cautela": "Evidenza eterogenea e di qualità variabile; popolazione clinica, nessuna promessa terapeutica.",
+   "verifica": "Record PubMed 42828669 e Crossref controllati: titolo, data 03/10/2026, abstract letto."
+  },
+  {
+   "id": "2026-10-05-qigong-respiro-bariatrica-rct",
+   "settore": "Dimagrimento & Metabolismo",
+   "titolo": "Qigong respiratorio dopo chirurgia bariatrica: studio randomizzato su 90 pazienti",
+   "url": "https://doi.org/10.1016/j.explore.2026.103538",
+   "fonte": "EXPLORE",
+   "data": "2026-09-27",
+   "aggiunta": "2026-10-05",
+   "livello": "primaria",
+   "tipo_fonte": "Studio clinico randomizzato, 90 pazienti, 12 settimane, gruppo di controllo senza intervento",
+   "sintesi": "Dopo 12 settimane di esercizio qigong con respirazione si osservano migliori funzione polmonare, resistenza del tronco, metabolismo a riposo e massa grassa rispetto al gruppo senza intervento.",
+   "perche": "Esempio di pratica cinese del movimento usata come complemento, con respiro e tronco al centro: spunto per email e articolo.",
+   "pilastro": "Stimolazione Neurale",
+   "voto_biscardi": 3,
+   "voto_motivo": "Pratica affine con respiro e tronco, ma popolazione post-chirurgica e controllo passivo.",
+   "cautela": "Il confronto è con nessun intervento, quindi non isola l'effetto del qigong. Popolazione post-chirurgica, nessuna promessa di dimagrimento.",
+   "verifica": "Record PubMed 42815250 e Crossref controllati: titolo, data 27/09/2026 online, abstract letto."
+  },
+  {
+   "id": "2026-10-05-sonno-metriche-intensita-atlete",
+   "settore": "Sonno & Recupero",
+   "titolo": "Metriche del sonno e intensità dell'allenamento: studio esplorativo su 13 atlete",
+   "url": "https://doi.org/10.3389/fspor.2026.1849511",
+   "fonte": "Frontiers in Sports and Active Living",
+   "data": "2026-09-17",
+   "aggiunta": "2026-10-05",
+   "livello": "primaria",
+   "tipo_fonte": "Studio osservazionale esplorativo, 13 atlete universitarie, 2 settimane con WHOOP",
+   "sintesi": "Un sonno medio peggiore (più debito, minore performance del sonno) si associa a marcatori cardiaci di sforzo più alti. Sonno, frequenza cardiaca e percezione dello sforzo vanno letti insieme.",
+   "perche": "Spunto per spiegare ai clienti perché sonno e recupero cambiano la risposta all'allenamento.",
+   "pilastro": "Recupero Attivo & Rigenerazione",
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile per il tema sonno e recupero, ma campione molto piccolo e di atlete.",
+   "cautela": "Solo associazione, 13 partecipanti: non generalizzabile alla clientela dello studio.",
+   "verifica": "Record PubMed 42824440 e Crossref controllati: titolo, data 17/09/2026, abstract letto."
   }
  ]
 }
