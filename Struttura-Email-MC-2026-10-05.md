@@ -1,4 +1,4 @@
-# Piano delle email ai partecipanti delle Mini Class (Studio Reformer)
+# Struttura delle email ai partecipanti delle Mini Class (Studio Reformer)
 
 Documento scritto da Biscardi (agente Rassegna news) il 05/10/2026, sotto dettatura di Mirko. Solo le decisioni prese: niente altro.
 
