@@ -1,6 +1,6 @@
 {
- "aggiornato": "2026-10-05T10:00:00Z",
- "note": "Svuotato il 05/10/2026 su richiesta di Mirko in attesa del nuovo giro di Biscardi (agente Rassegna news) con le istruzioni versione 3.",
+ "aggiornato": "2026-10-05T14:30:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Pilates e composizione corporea in donne adulte (meta-analisi, Sports) | tipo di Pilates non specificato, Reformer o Mat non verificabile | Tai chi online per dolore al ginocchio (J Physiother) | programma online non supervisionato, porta clienti altrove | Tai Chi e Baduanjin nei disturbi del sonno (Front Psychiatry) | condizione clinica e braccio con stimolazione magnetica | Rilascio miofasciale e Kinesio taping nel mal di schiena cronico (Physiother Theory Pract) | condizione clinica, tecnica manuale non mia | Pilates del pavimento pelvico dopo prostatectomia (Urol Int) | condizione clinica | Pilates prenatale e funzione sessuale (J Sex Med) | condizione clinica, fuori pilastri | Stimolazione elettrica vestibolare (Turk J Phys Med Rehabil) | dispositivo elettrico, fuori pilastri | Alert Google su verdure di stagione e sistema vestibolare nello spazio | fuori pilastri, fonte secondaria | Cinema, Musica Rock, Yoga e novità fitness, Dimagrimento & Metabolismo, Stagione & Circolazione | nessuna notizia utile verificabile questo giro",
  "giornate": [
   {
    "data": "2026-10-10",
@@ -8,8 +8,74 @@
    "url": "https://www.who.int/campaigns/world-mental-health-day",
    "fonte": "OMS",
    "perche": "Si lega a sonno, respiro e recupero, cioè ai pilastri Cronobiologia e Recupero Attivo & Rigenerazione."
+  },
+  {
+   "data": "2026-10-16",
+   "nome": "Giornata Mondiale della Colonna Vertebrale",
+   "url": "https://www.worldspineday.org",
+   "fonte": "World Spine Day (sito ufficiale)",
+   "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
   }
  ],
- "articolo_suggerito": null,
- "items": []
+ "articolo_suggerito": {
+  "news_id": "2026-10-05-cronobiologia-allenamento-orario-over65",
+  "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-47-orologio-energetico-cronobiologia.html",
+  "motivo": "La notizia riguarda l'orario dell'allenamento e il ritmo del corpo, tema dell'articolo sull'orologio del Daoyin e la cronobiologia. Si può aggiungere che il dato recente dice che conta più la costanza dell'orario perfetto."
+ },
+ "items": [
+  {
+   "id": "2026-10-05-cronobiologia-allenamento-orario-over65",
+   "settore": "Equilibrio & Longevità",
+   "titolo": "Allenarsi all'orario di massima prestazione personale non dà più massa muscolare di un orario sfavorevole (over 65, studio randomizzato)",
+   "url": "https://doi.org/10.1002/jcsm.70390",
+   "fonte": "Journal of Cachexia, Sarcopenia and Muscle (Università di Basilea)",
+   "data": "2026-10-01",
+   "livello": "primaria",
+   "tipo_fonte": "Studio randomizzato controllato (108 over 65, 12 settimane)",
+   "sintesi": "Allenare la forza all'orario di picco individuale non ha dato risultati diversi dall'orario di minimo su forza e massa magra. Nessun evento avverso serio.",
+   "perche": "Spunto per Mini Class ed email sulla cronobiologia: per chi si allena con regolarità l'orario conta meno della costanza, quindi si può scegliere l'orario che si riesce a mantenere.",
+   "pilastro": "Cronobiologia",
+   "voto_biscardi": 4,
+   "voto_motivo": "Risultato onesto e controintuitivo su orari e allenamento, si lega al pilastro Cronobiologia e alle Mini Class.",
+   "cautela": "Risultato nullo (nessuna differenza tra gruppi); popolazione di over 65 sani, allenamento di forza con macchine e cyclette, non Pilates. Non è un'indicazione terapeutica.",
+   "verifica": "Record PubMed 42791208 e DOI 10.1002/jcsm.70390 controllati: titolo, data (ottobre 2026), disegno, esiti e risultati letti nell'abstract.",
+   "aggiunta": "2026-10-05"
+  },
+  {
+   "id": "2026-10-05-recupero-hrv-modalita-allenamento",
+   "settore": "Sonno & Recupero",
+   "titolo": "HRV dopo l'allenamento: il recupero del sistema nervoso autonomo cambia con il tipo di allenamento (12 settimane)",
+   "url": "https://doi.org/10.1007/s00421-026-06329-z",
+   "fonte": "European Journal of Applied Physiology",
+   "data": "2026-10-01",
+   "livello": "primaria",
+   "tipo_fonte": "Studio longitudinale su tre gruppi (43 adulti sani)",
+   "sintesi": "In 12 settimane di allenamento continuo moderato, a intervalli o di forza, il recupero dell'HRV (RMSSD) dopo la seduta è cambiato in modo diverso. Il punteggio di insonnia della notte prima ha influito sul recupero.",
+   "perche": "Aggancio per parlare ai clienti di HRV, sonno e recupero tra una seduta e l'altra e dell'importanza di non stare sempre al massimo.",
+   "pilastro": "Recupero Attivo & Rigenerazione",
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile per il tema HRV e sonno, ma campione piccolo e allenamenti diversi da Reformer.",
+   "cautela": "Solo 43 partecipanti in tre gruppi non randomizzati (coorti indipendenti): solo associazione, nessun nesso causale. Nessun Pilates.",
+   "verifica": "Record PubMed 42371083 e DOI 10.1007/s00421-026-06329-z controllati: titolo, data (ottobre 2026), metodi e risultati letti nell'abstract.",
+   "aggiunta": "2026-10-05"
+  },
+  {
+   "id": "2026-10-05-sonno-forza-over64-efficienza",
+   "settore": "Sonno & Recupero",
+   "titolo": "Forza esplosiva per gli arti inferiori in over 64: migliora l'efficienza del sonno misurata con polisonnografia portatile",
+   "url": "https://doi.org/10.1007/s11357-026-02519-x",
+   "fonte": "GeroScience",
+   "data": "2026-09-09",
+   "livello": "primaria",
+   "tipo_fonte": "Studio con gruppo di controllo (36 persone di 64-81 anni, 12 settimane)",
+   "sintesi": "Dopo 12 settimane di allenamento di forza a 3 sedute settimanali, il gruppo allenato ha mostrato più efficienza del sonno e più tempo totale di sonno rispetto al controllo. Ridotto anche il lattato nell'area sensomotoria.",
+   "perche": "Spunto per un articolo o un'email su forza, sonno e invecchiamento: la fascia over 60 dormiva meglio dopo un allenamento regolare di forza.",
+   "pilastro": "Recupero Attivo & Rigenerazione",
+   "voto_biscardi": 3,
+   "voto_motivo": "Lega movimento e sonno nella fascia over 60, ma campione piccolo e allenamento di forza non Reformer.",
+   "cautela": "Solo 36 partecipanti, assegnazione non descritta come randomizzata nell'abstract: solo associazione. Allenamento esplosivo, non Pilates.",
+   "verifica": "Record PubMed 42717164 e DOI 10.1007/s11357-026-02519-x controllati: titolo, data (9 settembre 2026), disegno e risultati letti nell'abstract.",
+   "aggiunta": "2026-10-05"
+  }
+ ]
 }
