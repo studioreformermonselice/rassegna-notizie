@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-05T12:47:57Z",
+ "aggiornato": "2026-10-06T21:20:02Z",
  "note": "Generato dallo script di pubblicazione del sito",
  "articoli": [
   {
@@ -391,6 +391,48 @@
    "numero": 56,
    "titolo": "A Che Ritmo Cammini? Il Numero che Conta",
    "url": "https://www.mirkoboaretto.it/articoli/articolo-56-a-che-ritmo-cammini.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 57,
+   "titolo": "Riesci a Soffiarti il Naso con l'Altra Mano?",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-57-soffiarsi-il-naso-con-laltra-mano.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 58,
+   "titolo": "Il Movimento Previene Più di Quanto Pensi",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-58-il-movimento-previene-piu-di-quanto-pensi.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 59,
+   "titolo": "Alleni il Corpo, Cambi il Cervello",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-59-alleni-il-corpo-cambi-il-cervello.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 60,
+   "titolo": "Pilates e Salute Mentale: Cosa Dice la Ricerca (Con Onestà)",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-60-pilates-e-salute-mentale-con-onesta.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 61,
+   "titolo": "Il Respiro che Calma: Cosa Dice la Ricerca su Stress e Ansia",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-61-il-respiro-che-calma.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 62,
+   "titolo": "Dormire Non È Fermarsi: Sonno, Recupero e Salute Mentale",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-62-dormire-non-e-fermarsi.html",
    "data": "2026-10",
    "data_da": "mese nell'articolo"
   }
