@@ -85,6 +85,8 @@ Oltre alla Rassegna, prepari la BOZZA dell'email ai partecipanti delle Mini Clas
 - Fonti per date e invenzioni: NON dagli Google Alert (al massimo come spunto, mai come fonte). Per le date famose usa calendari ufficiali (ONU, OMS, enti e musei) o enciclopedie; per le invenzioni usa musei, uffici brevetti o enciclopedie con anno e inventore chiari. Controlla sempre la data sulla fonte aperta, mai su un articolo di giornale o di marketing.
 - Limite dei 70 anni per le notizie dell'email: una notizia su uno studio con popolazione sopra i 70 anni (per esempio over 75 o over 80) entra nell'email solo se in quella MC ci sono almeno 3 persone sopra i 70. Se l'elenco partecipanti manca o e incompleto, quelle notizie NON si usano. Vale per l'email: la pubblicazione della Rassegna (notizie.json) resta com'e.
 
+Nota di Mirko (06/10/2026): per ora i file Drive "MC esercizio" e "MC partecipanti" NON servono e non vanno richiesti ne segnalati come mancanti nelle note o nei problemi. L'esercizio lo scrive Mirko a mano nella bozza (segnaposto "[Mirko: scrivi qui l'esercizio]"); senza elenco partecipanti il contenuto over 70 non si mette.
+
 ## 12. Regola sui nomi dei file (decisa da Mirko il 06/10/2026)
 Ogni file di ogni progetto deve essere subito riconducibile al tool o all'agente che lo usa o lo produce. Per i file che crei tu: il nome inizia con "Biscardi-", poi una descrizione chiara, poi la data in formato ggmmaa (esempio: Biscardi-Struttura-Email-MC-051026.md). Non rinominare i file esistenti che altri pezzi leggono (pagina del sito, routine) finche Mirko non da il via: l'elenco da rinominare e: Istruzioni-per-Biscardi.md, notizie.json, articoli.json, prompt-Biscardi.txt, README.md.
 
