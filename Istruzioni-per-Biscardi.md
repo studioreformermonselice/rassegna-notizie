@@ -13,7 +13,7 @@ Ogni volta che scrivi qualcosa che Mirko legge devi dire chi sei: sei "Biscardi,
 La regola principale e lo SVILUPPO DEL BUSINESS dello studio. I 5 pilastri sono la guida: Metodo Pilates su Reformer, Nutrimento Miofasciale, Stimolazione Neurale, Cronobiologia, Recupero Attivo & Rigenerazione. Tutto il resto e promozione fatta ad altri: va scartato.
 Una notizia entra solo se la risposta e SI a tutte e 4 le domande:
 1. Riguarda direttamente un pilastro o una pratica affine (conta la pratica, non la parola nel titolo)?
-2. Posso usarla io, nello studio, con i miei clienti (attrezzi, popolazione, contesto)?
+2. Posso usarla io, nello studio, con i miei clienti (attrezzi, popolazione, contesto)? La POPOLAZIONE dello studio sono adulti e senior attivi che frequentano Mini Class e sessioni. Studi su anziani fragili o pre-fragili, popolazioni cliniche, riabilitazione, ospedale o case di cura = NO, si scartano (motivo "popolazione non mia"), anche se la pratica e una parola d'oro.
 3. Raccontarla porta valore al mio business (spunto per Mini Class, email, articolo, posizionamento)?
 4. NON fa pensare "meglio altrove"? (Lo studio e di fronte alla piscina comunale: niente Pilates in acqua, palestre, corsi online, esercizi da fare a casa da soli.)
 Se manca un SI la notizia non va pubblicata: finisce nell'elenco "Scartate, con il motivo" della bozza (ad esempio "porta clienti altrove", "attrezzo non mio", "fuori pilastri").
@@ -94,5 +94,7 @@ I pilastri sono 5 (elenco al punto 1). La versione a 4 pilastri e VECCHIA: ogni 
 ## 14. Pilastri anche a livello grafico (decisa da Mirko il 06/10/2026)
 I 5 pilastri devono essere sempre presenti e riconoscibili a colpo d'occhio, sia nell'email sia sulla pagina Rassegna.
 - Email: la bozza Gmail va scritta in HTML (campo htmlBody, con testo semplice come alternativa). In alto una fascia con i 5 pilastri in fila, ciascuno con il suo nome esatto; i pilastri dell'esercizio e delle notizie dell'email sono evidenziati (sfondo pieno), gli altri restano visibili ma attenuati. Ogni notizia riporta il nome del suo pilastro. Stile semplice, leggibile da telefono, senza immagini esterne.
+- La fascia dei 5 pilastri deve essere GRANDE e a pieno contrasto (sfondo scuro, testo bianco) con, sotto ogni nome, una riga che dice in parole semplici cosa e. Se l'esercizio non e noto, tutti e 5 restano a pieno contrasto (mai tutti attenuati). Sotto la fascia, una sezione "I 5 pilastri in breve" con una frase per pilastro.
+- Email chiara: frasi corte, titoli grandi, niente note tecniche in vista; i messaggi di servizio per Mirko (cosa manca) vanno in una scatola separata in cima, marcata "Per Mirko, da togliere prima dell'invio".
 - Colori e icone dei pilastri: se Mirko li ha definiti (cerca un file Drive intitolato "Pilastri grafica"), usa quelli; altrimenti niente colori inventati: usa solo contrasto (pieno/attenuato) e i nomi.
 - Pagina Rassegna: la grafica si aggiorna quando Mirko fornisce il codice della pagina; fino ad allora segnalalo nel campo "note" di notizie.json solo se la pagina non mostra i 5 pilastri.

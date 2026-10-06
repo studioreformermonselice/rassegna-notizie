@@ -1,6 +1,6 @@
 {
- "aggiornato": "2026-10-06T08:00:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Baduanjin nella riabilitazione del Parkinson (Front Aging Neurosci) | condizione clinica | Test vestibolare video head impulse nello stroke (Neurol Clin Pract) | diagnostica clinica, fuori pilastri | Esercizio di resistenza seguito da massaggio manuale o compressione pneumatica (J Strength Cond Res) | tecnica e dispositivo non miei | Rilascio miofasciale contro dry needling nella condromalacia (Sports Health) | condizione clinica, tecnica non mia | Addestramento del diaframma nello scompenso cardiaco (Eur Heart J) | condizione clinica | Pilates Reformer o Mat, Cinema, Musica Rock, Yoga e novità fitness, Dimagrimento & Metabolismo, Stagione & Circolazione | nessuna notizia utile verificabile questo giro. Controllo pagina Rassegna: non verificabile da Biscardi, segnalare se non mostra i 5 pilastri. Elenco MC esercizio, MC partecipanti e Pilastri grafica non trovati su Drive.",
+ "aggiornato": "2026-10-06T09:00:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Esercizio mente-corpo (Tai Chi, Baduanjin, yoga) e equilibrio in anziani pre-fragili e fragili (Front Aging) | popolazione fragile, non è la mia | Baduanjin nella riabilitazione del Parkinson (Front Aging Neurosci) | condizione clinica | Test vestibolare video head impulse nello stroke (Neurol Clin Pract) | diagnostica clinica, fuori pilastri | Esercizio di resistenza seguito da massaggio manuale o compressione pneumatica (J Strength Cond Res) | tecnica e dispositivo non miei | Rilascio miofasciale contro dry needling nella condromalacia (Sports Health) | condizione clinica, tecnica non mia | Addestramento del diaframma nello scompenso cardiaco (Eur Heart J) | condizione clinica | Pilates Reformer o Mat, Cinema, Musica Rock, Yoga e novità fitness, Dimagrimento & Metabolismo, Stagione & Circolazione | nessuna notizia utile verificabile questo giro. Controllo pagina Rassegna: non verificabile da Biscardi, segnalare se non mostra i 5 pilastri. Elenco MC esercizio, MC partecipanti e Pilastri grafica non trovati su Drive.",
  "giornate": [
   {
    "data": "2026-10-10",
@@ -17,30 +17,8 @@
    "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
   }
  ],
- "articolo_suggerito": {
-  "news_id": "2026-10-06-equilibrio-mente-corpo-fragili",
-  "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-48-equilibrio-gallo-oro-rischio-cadute.html",
-  "motivo": "La meta-analisi su Tai Chi e Baduanjin per l'equilibrio si lega all'articolo sul Gallo d'Oro, equilibrio di duemila anni fa e rischio cadute."
- },
+ "articolo_suggerito": null,
  "items": [
-  {
-   "id": "2026-10-06-equilibrio-mente-corpo-fragili",
-   "settore": "Equilibrio & Longevità",
-   "titolo": "Esercizio mente-corpo (Tai Chi, Baduanjin, yoga) e equilibrio in anziani pre-fragili e fragili: revisione sistematica con meta-analisi",
-   "url": "https://doi.org/10.3389/fragi.2026.1915136",
-   "fonte": "Frontiers in Aging (Chen, Bai, Song; Shanghai University of Traditional Chinese Medicine)",
-   "data": "2026-09-08",
-   "aggiunta": "2026-10-06",
-   "livello": "primaria",
-   "tipo_fonte": "Revisione sistematica con meta-analisi di 10 studi randomizzati",
-   "sintesi": "Dieci studi randomizzati (12 confronti) mostrano miglioramenti di equilibrio complessivo, dinamico e statico con esercizio mente-corpo rispetto a cura usuale, educazione o nessun intervento. Gli effetti sembrano più costanti con 2-4 sedute a settimana da 31-60 minuti per almeno 13 settimane.",
-   "perche": "Tai Chi e Baduanjin sono complemento alle sessioni: spunto per una Mini Class sull'equilibrio e per raccontare il lavoro di propriocezione dello studio.",
-   "pilastro": "Stimolazione Neurale",
-   "voto_biscardi": 3,
-   "voto_motivo": "Utile per posizionare equilibrio e pratiche cinesi come complemento, ma la popolazione è fragile e le analisi sulla dose sono indirette.",
-   "cautela": "Sintesi di studi su anziani pre-fragili e fragili; le analisi per sottogruppi sulla frequenza e durata sono esplorative e indirette, non provano un rapporto causale sulla dose. Popolazione over 70: per l'email Mini Class serve la regola dei 3 over 70.",
-   "verifica": "Record PubMed 42775218 e Crossref DOI 10.3389/fragi.2026.1915136 aperti il 06/10/2026: titolo, autori, data (08/09/2026) e abstract controllati."
-  },
   {
    "id": "2026-10-05-cronobiologia-allenamento-orario-over65",
    "settore": "Equilibrio & Longevità",
