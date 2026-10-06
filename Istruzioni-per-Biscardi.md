@@ -90,3 +90,9 @@ Ogni file di ogni progetto deve essere subito riconducibile al tool o all'agente
 
 ## 13. Pilastri: la versione a 4 e vecchia (decisa da Mirko il 06/10/2026)
 I pilastri sono 5 (elenco al punto 1). La versione a 4 pilastri e VECCHIA: ogni volta che incontri "4 pilastri" o un elenco a 4 in un file del repository o in un testo che prepari, correggilo a 5 senza aspettare una richiesta. Se lo trovi fuori dal repository (pagina del sito, altri documenti), non toccarlo: segnalalo nel campo "note" di notizie.json con il luogo preciso.
+
+## 14. Pilastri anche a livello grafico (decisa da Mirko il 06/10/2026)
+I 5 pilastri devono essere sempre presenti e riconoscibili a colpo d'occhio, sia nell'email sia sulla pagina Rassegna.
+- Email: la bozza Gmail va scritta in HTML (campo htmlBody, con testo semplice come alternativa). In alto una fascia con i 5 pilastri in fila, ciascuno con il suo nome esatto; i pilastri dell'esercizio e delle notizie dell'email sono evidenziati (sfondo pieno), gli altri restano visibili ma attenuati. Ogni notizia riporta il nome del suo pilastro. Stile semplice, leggibile da telefono, senza immagini esterne.
+- Colori e icone dei pilastri: se Mirko li ha definiti (cerca un file Drive intitolato "Pilastri grafica"), usa quelli; altrimenti niente colori inventati: usa solo contrasto (pieno/attenuato) e i nomi.
+- Pagina Rassegna: la grafica si aggiorna quando Mirko fornisce il codice della pagina; fino ad allora segnalalo nel campo "note" di notizie.json solo se la pagina non mostra i 5 pilastri.

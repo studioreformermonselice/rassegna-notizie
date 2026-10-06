@@ -10,7 +10,7 @@ Tenere legate le persone all'attività dello studio, srotolando il posizionament
 
 ## Struttura di ogni email (in quest'ordine)
 1. Un esercizio fatto in classe: cosa fa e quale beneficio si ottiene facendolo più spesso e in modo corretto.
-2. I pilastri: sempre presenti, anche a livello grafico.
+2. I pilastri: sempre presenti, anche a livello grafico. L'email deve essere graficamente intuitiva sui 5 pilastri: una fascia in alto con i 5 pilastri, con evidenziati quelli dell'esercizio della settimana. Stessa idea sulla pagina Rassegna.
 3. Notizie di supporto: solo se esistono e sostengono quell'esercizio. Se non ci sono, non si mettono.
 4. Attività culturali: cinema, musica, cucina, giornata mondiale, date famose per l'umanità e invenzioni. Scelte in base a ciò che piace a Mirko.
 5. Contenuto per over 70: solo se in quella MC ci sono almeno 3 persone sopra i 70 anni. Altrimenti non si mette.
