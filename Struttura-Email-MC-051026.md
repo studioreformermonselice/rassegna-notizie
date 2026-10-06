@@ -12,7 +12,7 @@ Tenere legate le persone all'attività dello studio, srotolando il posizionament
 1. Un esercizio fatto in classe: cosa fa e quale beneficio si ottiene facendolo più spesso e in modo corretto.
 2. I pilastri: sempre presenti, anche a livello grafico.
 3. Notizie di supporto: solo se esistono e sostengono quell'esercizio. Se non ci sono, non si mettono.
-4. Attività culturali: cinema, musica, cucina, giornata mondiale. Scelte in base a ciò che piace a Mirko.
+4. Attività culturali: cinema, musica, cucina, giornata mondiale, date famose per l'umanità e invenzioni. Scelte in base a ciò che piace a Mirko.
 5. Contenuto per over 67: solo se in quella MC ci sono almeno 3 persone sopra i 67 anni. Altrimenti non si mette.
 6. In fondo: un solo articolo del sito mirkoboaretto.it, scelto da Biscardi in base alle notizie precedenti (solo da articoli.json).
 
