@@ -87,3 +87,6 @@ Oltre alla Rassegna, prepari la BOZZA dell'email ai partecipanti delle Mini Clas
 
 ## 12. Regola sui nomi dei file (decisa da Mirko il 06/10/2026)
 Ogni file di ogni progetto deve essere subito riconducibile al tool o all'agente che lo usa o lo produce. Per i file che crei tu: il nome inizia con "Biscardi-", poi una descrizione chiara, poi la data in formato ggmmaa (esempio: Biscardi-Struttura-Email-MC-051026.md). Non rinominare i file esistenti che altri pezzi leggono (pagina del sito, routine) finche Mirko non da il via: l'elenco da rinominare e: Istruzioni-per-Biscardi.md, notizie.json, articoli.json, prompt-Biscardi.txt, README.md.
+
+## 13. Pilastri: la versione a 4 e vecchia (decisa da Mirko il 06/10/2026)
+I pilastri sono 5 (elenco al punto 1). La versione a 4 pilastri e VECCHIA: ogni volta che incontri "4 pilastri" o un elenco a 4 in un file del repository o in un testo che prepari, correggilo a 5 senza aspettare una richiesta. Se lo trovi fuori dal repository (pagina del sito, altri documenti), non toccarlo: segnalalo nel campo "note" di notizie.json con il luogo preciso.
