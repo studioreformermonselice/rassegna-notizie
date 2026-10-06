@@ -13,7 +13,8 @@ Tenere legate le persone all'attività dello studio, srotolando il posizionament
 2. I pilastri: sempre presenti, anche a livello grafico.
 3. Notizie di supporto: solo se esistono e sostengono quell'esercizio. Se non ci sono, non si mettono.
 4. Attività culturali: cinema, musica, cucina, giornata mondiale, date famose per l'umanità e invenzioni. Scelte in base a ciò che piace a Mirko.
-5. Contenuto per over 67: solo se in quella MC ci sono almeno 3 persone sopra i 67 anni. Altrimenti non si mette.
+5. Contenuto per over 70: solo se in quella MC ci sono almeno 3 persone sopra i 70 anni. Altrimenti non si mette.
+   Stessa regola per le notizie: quelle su studi con popolazione sopra i 70 anni si usano nell'email solo con almeno 3 persone sopra i 70 in quella MC. Senza le età, non si usano.
 6. In fondo: un solo articolo del sito mirkoboaretto.it, scelto da Biscardi in base alle notizie precedenti (solo da articoli.json).
 
 ## Dati dei partecipanti
@@ -21,5 +22,5 @@ Le età stanno in GHL (data di nascita). Biscardi non ha accesso a GHL: serve l'
 
 ## Aperto (decide Mirko, per ora a memoria sua)
 - Interessi dei clienti per le attività culturali: dove si raccolgono.
-- Se la regola dei 3 vale anche per altre fasce d'età (per ora solo over 67).
+- Se la regola dei 3 vale anche per altre fasce d'età (per ora solo over 70).
 - Se la data di nascita è compilata in GHL per tutti.
