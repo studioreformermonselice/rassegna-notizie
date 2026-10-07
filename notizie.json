@@ -1,6 +1,6 @@
 {
- "aggiornato": "2026-10-06T09:00:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Esercizio mente-corpo (Tai Chi, Baduanjin, yoga) e equilibrio in anziani pre-fragili e fragili (Front Aging) | popolazione fragile, non è la mia | Baduanjin nella riabilitazione del Parkinson (Front Aging Neurosci) | condizione clinica | Test vestibolare video head impulse nello stroke (Neurol Clin Pract) | diagnostica clinica, fuori pilastri | Esercizio di resistenza seguito da massaggio manuale o compressione pneumatica (J Strength Cond Res) | tecnica e dispositivo non miei | Rilascio miofasciale contro dry needling nella condromalacia (Sports Health) | condizione clinica, tecnica non mia | Addestramento del diaframma nello scompenso cardiaco (Eur Heart J) | condizione clinica | Pilates Reformer o Mat, Cinema, Musica Rock, Yoga e novità fitness, Dimagrimento & Metabolismo, Stagione & Circolazione | nessuna notizia utile verificabile questo giro. Controllo pagina Rassegna: non verificabile da Biscardi, segnalare se non mostra i 5 pilastri. Elenco MC esercizio, MC partecipanti e Pilastri grafica non trovati su Drive.",
+ "aggiornato": "2026-10-07T06:00:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Ritmo circadiano e prestazione di corsa in bicicletta mattina/sera (Eur J Appl Physiol) | limite settimanale del settore Sonno & Recupero già raggiunto | Qigong e senso di vita negli anziani (Front Public Health) | fuori pilastri, popolazione non mia | Qigong dopo chirurgia bariatrica (Explore) | condizione clinica | Rilascio diaframmatico nel diabete di tipo II (Physiol Int) | condizione clinica | Cinema, Musica Rock, Yoga e novità fitness, Equilibrio & Longevità, Stagione & Circolazione | nessuna notizia utile verificabile questo giro. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
  "giornate": [
   {
    "data": "2026-10-10",
@@ -17,61 +17,47 @@
    "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
   }
  ],
- "articolo_suggerito": null,
+ "articolo_suggerito": {
+  "news_id": "2026-10-07-metabolismo-esercizio-sonno-obesita",
+  "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-10-quinto-pilastro-recupero.html",
+  "motivo": "La notizia lega movimento, sonno e ritmo giornaliero al recupero, tema dell'articolo sul quinto pilastro."
+ },
  "items": [
   {
-   "id": "2026-10-05-cronobiologia-allenamento-orario-over65",
-   "settore": "Equilibrio & Longevità",
-   "titolo": "Allenarsi all'orario di massima prestazione personale non dà più massa muscolare di un orario sfavorevole (over 65, studio randomizzato)",
-   "url": "https://doi.org/10.1002/jcsm.70390",
-   "fonte": "Journal of Cachexia, Sarcopenia and Muscle (Università di Basilea)",
-   "data": "2026-10-01",
+   "id": "2026-10-07-metabolismo-esercizio-sonno-obesita",
+   "settore": "Dimagrimento & Metabolismo",
+   "titolo": "L'esercizio fisico come regolatore del legame tra sonno e peso: meccanismi metabolici e circadiani",
+   "url": "https://doi.org/10.3389/frsle.2026.1943600",
+   "fonte": "Frontiers in Sleep",
+   "data": "2026-09-11",
+   "aggiunta": "2026-10-07",
    "livello": "primaria",
-   "tipo_fonte": "Studio randomizzato controllato (108 over 65, 12 settimane)",
-   "sintesi": "Allenare la forza all'orario di picco individuale non ha dato risultati diversi dall'orario di minimo su forza e massa magra. Nessun evento avverso serio.",
-   "perche": "Spunto per Mini Class ed email sulla cronobiologia: per chi si allena con regolarità l'orario conta meno della costanza, quindi si può scegliere l'orario che si riesce a mantenere.",
+   "tipo_fonte": "Rassegna narrativa (review) su PubMed, Frontiers in Sleep, PMID 42799063",
+   "sintesi": "La rassegna descrive come il movimento regolare agisca sia sul sonno sia sul metabolismo e come possa funzionare da segnale che sincronizza gli orologi biologici. Il momento della giornata in cui ci si allena influenza le risposte metaboliche.",
+   "perche": "Spunto per una Mini Class o un'email su movimento regolare, sonno e ritmo giornaliero: lega Cronobiologia e Recupero in modo semplice per adulti attivi.",
    "pilastro": "Cronobiologia",
-   "voto_biscardi": 4,
-   "voto_motivo": "Risultato onesto e controintuitivo su orari e allenamento, si lega al pilastro Cronobiologia e alle Mini Class.",
-   "cautela": "Risultato nullo (nessuna differenza tra gruppi); popolazione di over 65 sani, allenamento di forza con macchine e cyclette, non Pilates. Non è un'indicazione terapeutica.",
-   "verifica": "Record PubMed 42791208 e DOI 10.1002/jcsm.70390 controllati: titolo, data (ottobre 2026), disegno, esiti e risultati letti nell'abstract.",
-   "aggiunta": "2026-10-05"
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile come cornice che unisce sonno, ritmo e movimento, ma è una rassegna di meccanismi, non uno studio sui clienti dello studio.",
+   "cautela": "Rassegna narrativa: descrive meccanismi, non prova un effetto su singole persone. Nessuna promessa di dimagrimento.",
+   "verifica": "Aperto il record PubMed (PMID 42799063) con abstract, autori (Univ. Federal de São Paulo e altre), data 11/09/2026 e DOI."
   },
   {
-   "id": "2026-10-05-recupero-hrv-modalita-allenamento",
-   "settore": "Sonno & Recupero",
-   "titolo": "HRV dopo l'allenamento: il recupero del sistema nervoso autonomo cambia con il tipo di allenamento (12 settimane)",
-   "url": "https://doi.org/10.1007/s00421-026-06329-z",
-   "fonte": "European Journal of Applied Physiology",
+   "id": "2026-10-07-pilates-mat-force-vector-autisti-over",
+   "settore": "Pilates & Movimento",
+   "titolo": "Mat Pilates a vettori di forza in autisti professionisti più anziani: studio di fattibilità",
+   "url": "https://doi.org/10.1002/pri.70284",
+   "fonte": "Physiotherapy Research International",
    "data": "2026-10-01",
+   "aggiunta": "2026-10-07",
    "livello": "primaria",
-   "tipo_fonte": "Studio longitudinale su tre gruppi (43 adulti sani)",
-   "sintesi": "In 12 settimane di allenamento continuo moderato, a intervalli o di forza, il recupero dell'HRV (RMSSD) dopo la seduta è cambiato in modo diverso. Il punteggio di insonnia della notte prima ha influito sul recupero.",
-   "perche": "Aggancio per parlare ai clienti di HRV, sonno e recupero tra una seduta e l'altra e dell'importanza di non stare sempre al massimo.",
-   "pilastro": "Recupero Attivo & Rigenerazione",
+   "tipo_fonte": "Studio di fattibilità a gruppo singolo su PubMed, PMID 42541457",
+   "sintesi": "47 autisti professionisti più anziani hanno fatto una sessione settimanale di Mat Pilates da 50 minuti per 30 settimane. In chi ha finito (16 persone) sono migliorati mobilità, rotazione del collo e prestazione delle gambe.",
+   "perche": "IDEA NUOVA ATTIVITA: Mat Pilates mirato su mobilità del collo e prontezza, uno spunto per chi passa molte ore alla guida.",
+   "pilastro": "Metodo Pilates su Reformer",
    "voto_biscardi": 3,
-   "voto_motivo": "Utile per il tema HRV e sonno, ma campione piccolo e allenamenti diversi da Reformer.",
-   "cautela": "Solo 43 partecipanti in tre gruppi non randomizzati (coorti indipendenti): solo associazione, nessun nesso causale. Nessun Pilates.",
-   "verifica": "Record PubMed 42371083 e DOI 10.1007/s00421-026-06329-z controllati: titolo, data (ottobre 2026), metodi e risultati letti nell'abstract.",
-   "aggiunta": "2026-10-05"
-  },
-  {
-   "id": "2026-10-05-sonno-forza-over64-efficienza",
-   "settore": "Sonno & Recupero",
-   "titolo": "Forza esplosiva per gli arti inferiori in over 64: migliora l'efficienza del sonno misurata con polisonnografia portatile",
-   "url": "https://doi.org/10.1007/s11357-026-02519-x",
-   "fonte": "GeroScience",
-   "data": "2026-09-09",
-   "livello": "primaria",
-   "tipo_fonte": "Studio con gruppo di controllo (36 persone di 64-81 anni, 12 settimane)",
-   "sintesi": "Dopo 12 settimane di allenamento di forza a 3 sedute settimanali, il gruppo allenato ha mostrato più efficienza del sonno e più tempo totale di sonno rispetto al controllo. Ridotto anche il lattato nell'area sensomotoria.",
-   "perche": "Spunto per un articolo o un'email su forza, sonno e invecchiamento: la fascia over 60 dormiva meglio dopo un allenamento regolare di forza.",
-   "pilastro": "Recupero Attivo & Rigenerazione",
-   "voto_biscardi": 3,
-   "voto_motivo": "Lega movimento e sonno nella fascia over 60, ma campione piccolo e allenamento di forza non Reformer.",
-   "cautela": "Solo 36 partecipanti, assegnazione non descritta come randomizzata nell'abstract: solo associazione. Allenamento esplosivo, non Pilates.",
-   "verifica": "Record PubMed 42717164 e DOI 10.1007/s11357-026-02519-x controllati: titolo, data (9 settembre 2026), disegno e risultati letti nell'abstract.",
-   "aggiunta": "2026-10-05"
+   "voto_motivo": "Mat Pilates settimanale con risultati su mobilità e gambe, ma campione piccolo e molti abbandoni.",
+   "cautela": "Studio esplorativo senza gruppo di controllo, solo 16 su 47 hanno completato; gli autori stessi dicono di non leggerlo come prova di beneficio. Il tempo di frenata non è cambiato in modo significativo.",
+   "verifica": "Aperto il record PubMed (PMID 42541457) con abstract, autori (Univ. di San Paolo), data e DOI."
   }
  ]
 }
