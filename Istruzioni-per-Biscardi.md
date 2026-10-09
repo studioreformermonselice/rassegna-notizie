@@ -31,7 +31,7 @@ C2) Elenco fisso di cose che Mirko ha ripetuto piu volte (09/10/2026): rileggilo
 - Sport estremo e atleti (ultramaratoneti, atlete, sonno degli sportivi): non sono il cliente dello studio.
 - Farmaci e terapie (tirzepatide, GLP-1 e simili); patologie e dieta (diabete, tiroide, lipedema in ogni forma, obesita clinica).
 - Riabilitazione vestibolare e di pazienti; realta virtuale e gioco; stimolazione del nervo vago e altri dispositivi medici.
-- Yoga in ogni forma (posizioni, insegnanti, anziani): porta clienti altrove. Nel settore "Yoga e novità fitness" non si pubblica yoga: solo novita di fitness legate ai pilastri; se non c'e nulla il settore resta vuoto.
+- Yoga in ogni forma (posizioni, insegnanti, anziani): porta clienti altrove. Il settore "Yoga e novità fitness" e stato TOLTO da Mirko (09/10/2026): non si cerca e non si usa piu, nemmeno per "novita fitness". Una notizia utile di fitness va nel settore del suo pilastro solo se passa il portone d'ingresso.
 - Danza e altre modalita di esercizio messe in testa a una classifica (per esempio network meta-analisi dove il Pilates non e il tema): fuori.
 - Allenamento di forza con macchine o pesi, allenamento esplosivo e palestra: attrezzo non mio. Pilates solo se Reformer, Mat o Cadillac.
 - Cinema e documentari su sportivi (Schumacher, Tyson e simili), anche se la pagina e una testata secondaria.
@@ -50,7 +50,6 @@ Per ogni settore cerca la notizia piu forte e la ricerca piu recente (ultimi 30 
 - "Dimagrimento & Metabolismo"
 - "Equilibrio & Longevità" (propriocezione, equilibrio, riflessi vestibolari e oculomotori, sistema nervoso, antiaging; niente dispositivi o stimolazioni elettriche)
 - "Stagione & Circolazione" (gambe gonfie e circolazione legata al movimento; niente lipedema ne' condizioni cliniche; mai diagnostico o miracolistico)
-- "Yoga e novità fitness"
 - "Cinema" (film e documentari su corpo, movimento, benessere; non su sport e sportivi)
 - "Musica Rock"
 LIMITE: massimo 2 notizie NUOVE per settore a settimana (come le 2 sessioni settimanali). Dal lunedi conta quelle gia pubblicate in questa settimana (campo "aggiunta"). Meglio una notizia forte che due deboli; un settore puo restare vuoto ("Nessuna novita utile").
