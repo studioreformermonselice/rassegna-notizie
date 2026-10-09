@@ -1,63 +1,81 @@
 {
- "aggiornato": "2026-10-07T06:00:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Ritmo circadiano e prestazione di corsa in bicicletta mattina/sera (Eur J Appl Physiol) | limite settimanale del settore Sonno & Recupero già raggiunto | Qigong e senso di vita negli anziani (Front Public Health) | fuori pilastri, popolazione non mia | Qigong dopo chirurgia bariatrica (Explore) | condizione clinica | Rilascio diaframmatico nel diabete di tipo II (Physiol Int) | condizione clinica | Cinema, Musica Rock, Yoga e novità fitness, Equilibrio & Longevità, Stagione & Circolazione | nessuna notizia utile verificabile questo giro. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
- "giornate": [
-  {
-   "data": "2026-10-10",
-   "nome": "Giornata Mondiale della Salute Mentale",
-   "url": "https://www.who.int/campaigns/world-mental-health-day",
-   "fonte": "OMS",
-   "perche": "Si lega a sonno, respiro e recupero, cioè ai pilastri Cronobiologia e Recupero Attivo & Rigenerazione."
+  "aggiornato": "2026-10-09T06:00:00Z",
+  "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Respirazione coerente con luce blu e dispositivo ÉOS in ambiente di lavoro (PLoS One) | dispositivo, studio su 29 persone, nessun effetto su HRV | Terapie mente-corpo cinesi nei disturbi del sonno (Front Psychiatry) | condizione clinica | Pilates, Tai Chi, Qigong, fascia, circolazione, Cinema, Musica Rock, Yoga e novità fitness | nessuna notizia utile verificabile nell'ultimo mese a questo giro. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
+  "giornate": [
+    {
+      "data": "2026-10-10",
+      "nome": "Giornata Mondiale della Salute Mentale",
+      "url": "https://www.who.int/campaigns/world-mental-health-day",
+      "fonte": "OMS",
+      "perche": "Si lega a sonno, respiro e recupero, cioè ai pilastri Cronobiologia e Recupero Attivo & Rigenerazione."
+    },
+    {
+      "data": "2026-10-16",
+      "nome": "Giornata Mondiale della Colonna Vertebrale",
+      "url": "https://www.worldspineday.org",
+      "fonte": "World Spine Day (sito ufficiale)",
+      "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
+    }
+  ],
+  "articolo_suggerito": {
+    "news_id": "2026-10-09-longevita-allenamento-orario-over-65",
+    "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-47-orologio-energetico-cronobiologia.html",
+    "motivo": "La notizia riguarda il momento della giornata in cui ci si allena, tema dell'articolo sull'orologio del Daoyin e la cronobiologia."
   },
-  {
-   "data": "2026-10-16",
-   "nome": "Giornata Mondiale della Colonna Vertebrale",
-   "url": "https://www.worldspineday.org",
-   "fonte": "World Spine Day (sito ufficiale)",
-   "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
-  }
- ],
- "articolo_suggerito": {
-  "news_id": "2026-10-07-metabolismo-esercizio-sonno-obesita",
-  "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-10-quinto-pilastro-recupero.html",
-  "motivo": "La notizia lega movimento, sonno e ritmo giornaliero al recupero, tema dell'articolo sul quinto pilastro."
- },
- "items": [
-  {
-   "id": "2026-10-07-metabolismo-esercizio-sonno-obesita",
-   "settore": "Dimagrimento & Metabolismo",
-   "titolo": "L'esercizio fisico come regolatore del legame tra sonno e peso: meccanismi metabolici e circadiani",
-   "url": "https://doi.org/10.3389/frsle.2026.1943600",
-   "fonte": "Frontiers in Sleep",
-   "data": "2026-09-11",
-   "aggiunta": "2026-10-07",
-   "livello": "primaria",
-   "tipo_fonte": "Rassegna narrativa (review) su PubMed, Frontiers in Sleep, PMID 42799063",
-   "sintesi": "La rassegna descrive come il movimento regolare agisca sia sul sonno sia sul metabolismo e come possa funzionare da segnale che sincronizza gli orologi biologici. Il momento della giornata in cui ci si allena influenza le risposte metaboliche.",
-   "perche": "Spunto per una Mini Class o un'email su movimento regolare, sonno e ritmo giornaliero: lega Cronobiologia e Recupero in modo semplice per adulti attivi.",
-   "pilastro": "Cronobiologia",
-   "voto_biscardi": 3,
-   "voto_motivo": "Utile come cornice che unisce sonno, ritmo e movimento, ma è una rassegna di meccanismi, non uno studio sui clienti dello studio.",
-   "cautela": "Rassegna narrativa: descrive meccanismi, non prova un effetto su singole persone. Nessuna promessa di dimagrimento.",
-   "verifica": "Aperto il record PubMed (PMID 42799063) con abstract, autori (Univ. Federal de São Paulo e altre), data 11/09/2026 e DOI."
-  },
-  {
-   "id": "2026-10-07-pilates-mat-force-vector-autisti-over",
-   "settore": "Pilates & Movimento",
-   "titolo": "Mat Pilates a vettori di forza in autisti professionisti più anziani: studio di fattibilità",
-   "url": "https://doi.org/10.1002/pri.70284",
-   "fonte": "Physiotherapy Research International",
-   "data": "2026-08-01",
-   "aggiunta": "2026-10-07",
-   "livello": "primaria",
-   "tipo_fonte": "Studio di fattibilità a gruppo singolo su PubMed, PMID 42541457",
-   "sintesi": "47 autisti professionisti più anziani hanno fatto una sessione settimanale di Mat Pilates da 50 minuti per 30 settimane. In chi ha finito (16 persone) sono migliorati mobilità, rotazione del collo e prestazione delle gambe.",
-   "perche": "IDEA NUOVA ATTIVITA: Mat Pilates mirato su mobilità del collo e prontezza, uno spunto per chi passa molte ore alla guida.",
-   "pilastro": "Metodo Pilates su Reformer",
-   "voto_biscardi": 3,
-   "voto_motivo": "Mat Pilates settimanale con risultati su mobilità e gambe, ma campione piccolo e molti abbandoni.",
-   "cautela": "Studio esplorativo senza gruppo di controllo, solo 16 su 47 hanno completato; gli autori stessi dicono di non leggerlo come prova di beneficio. Il tempo di frenata non è cambiato in modo significativo.",
-   "verifica": "Aperto il record PubMed (PMID 42541457) con abstract, autori (Univ. di San Paolo) e DOI; data di pubblicazione online 01/08/2026 da Crossref (fascicolo ottobre 2026)."
-  }
- ]
+  "items": [
+    {
+      "id": "2026-10-07-metabolismo-esercizio-sonno-obesita",
+      "settore": "Dimagrimento & Metabolismo",
+      "titolo": "L'esercizio fisico come regolatore del legame tra sonno e peso: meccanismi metabolici e circadiani",
+      "url": "https://doi.org/10.3389/frsle.2026.1943600",
+      "fonte": "Frontiers in Sleep",
+      "data": "2026-09-11",
+      "aggiunta": "2026-10-07",
+      "livello": "primaria",
+      "tipo_fonte": "Rassegna narrativa (review) su PubMed, Frontiers in Sleep, PMID 42799063",
+      "sintesi": "La rassegna descrive come il movimento regolare agisca sia sul sonno sia sul metabolismo e come possa funzionare da segnale che sincronizza gli orologi biologici. Il momento della giornata in cui ci si allena influenza le risposte metaboliche.",
+      "perche": "Spunto per una Mini Class o un'email su movimento regolare, sonno e ritmo giornaliero: lega Cronobiologia e Recupero in modo semplice per adulti attivi.",
+      "pilastro": "Cronobiologia",
+      "voto_biscardi": 3,
+      "voto_motivo": "Utile come cornice che unisce sonno, ritmo e movimento, ma è una rassegna di meccanismi, non uno studio sui clienti dello studio.",
+      "cautela": "Rassegna narrativa: descrive meccanismi, non prova un effetto su singole persone. Nessuna promessa di dimagrimento.",
+      "verifica": "Aperto il record PubMed (PMID 42799063) con abstract, autori (Univ. Federal de São Paulo e altre), data 11/09/2026 e DOI."
+    },
+    {
+      "id": "2026-10-07-pilates-mat-force-vector-autisti-over",
+      "settore": "Pilates & Movimento",
+      "titolo": "Mat Pilates a vettori di forza in autisti professionisti più anziani: studio di fattibilità",
+      "url": "https://doi.org/10.1002/pri.70284",
+      "fonte": "Physiotherapy Research International",
+      "data": "2026-08-01",
+      "aggiunta": "2026-10-07",
+      "livello": "primaria",
+      "tipo_fonte": "Studio di fattibilità a gruppo singolo su PubMed, PMID 42541457",
+      "sintesi": "47 autisti professionisti più anziani hanno fatto una sessione settimanale di Mat Pilates da 50 minuti per 30 settimane. In chi ha finito (16 persone) sono migliorati mobilità, rotazione del collo e prestazione delle gambe.",
+      "perche": "IDEA NUOVA ATTIVITA: Mat Pilates mirato su mobilità del collo e prontezza, uno spunto per chi passa molte ore alla guida.",
+      "pilastro": "Metodo Pilates su Reformer",
+      "voto_biscardi": 3,
+      "voto_motivo": "Mat Pilates settimanale con risultati su mobilità e gambe, ma campione piccolo e molti abbandoni.",
+      "cautela": "Studio esplorativo senza gruppo di controllo, solo 16 su 47 hanno completato; gli autori stessi dicono di non leggerlo come prova di beneficio. Il tempo di frenata non è cambiato in modo significativo.",
+      "verifica": "Aperto il record PubMed (PMID 42541457) con abstract, autori (Univ. di San Paolo) e DOI; data di pubblicazione online 01/08/2026 da Crossref (fascicolo ottobre 2026)."
+    },
+    {
+      "id": "2026-10-09-longevita-allenamento-orario-over-65",
+      "settore": "Equilibrio & Longevità",
+      "titolo": "Allenarsi nell'orario di picco o di minimo rendimento: effetti sul muscolo in adulti over 65 (studio randomizzato)",
+      "url": "https://doi.org/10.1002/jcsm.70390",
+      "fonte": "Journal of Cachexia, Sarcopenia and Muscle",
+      "data": "2026-10-01",
+      "aggiunta": "2026-10-09",
+      "livello": "primaria",
+      "tipo_fonte": "Studio randomizzato controllato su PubMed (PMID 42791208), Journal of Cachexia, Sarcopenia and Muscle",
+      "sintesi": "108 adulti con età media di 67 anni hanno fatto 12 settimane di allenamento di forza e un po' di bicicletta, nell'orario di picco personale, nell'orario di minimo o niente (gruppo di controllo). Tra orario di picco e di minimo non è emersa una differenza chiara in forza e massa magra.",
+      "perche": "Spunto per una Mini Class o un'email sulla Cronobiologia: scegliere l'orario non è un obbligo, conta soprattutto allenarsi con regolarità. Rassicura chi ha poca scelta di orari.",
+      "pilastro": "Cronobiologia",
+      "voto_biscardi": 3,
+      "voto_motivo": "Risultato nullo ma utile e onesto per sfatare l'idea dell'orario perfetto; popolazione di adulti attivi e sani, vicina ai clienti dello studio.",
+      "cautela": "Studio su una sola sede, 12 settimane, allenamento con pesi e cyclette (non Reformer). Dice che l'orario non ha fatto differenza chiara, non che sia sempre irrilevante.",
+      "verifica": "Aperto il record PubMed (PMID 42791208): titolo, abstract con numeri, autori (Bruggisser, Ritter, Roth e altri), data ottobre 2026 e DOI 10.1002/jcsm.70390."
+    }
+  ]
 }
