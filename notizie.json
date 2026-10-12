@@ -1,14 +1,7 @@
 {
-  "aggiornato": "2026-10-09T06:00:00Z",
-  "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Respirazione coerente con luce blu e dispositivo ÉOS in ambiente di lavoro (PLoS One) | dispositivo, studio su 29 persone, nessun effetto su HRV | Terapie mente-corpo cinesi nei disturbi del sonno (Front Psychiatry) | condizione clinica | Pilates, Tai Chi, Qigong, fascia, circolazione, Cinema, Musica Rock, Yoga e novità fitness | nessuna notizia utile verificabile nell'ultimo mese a questo giro. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
+  "aggiornato": "2026-10-12T05:58:00Z",
+  "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Allenamento aerobico, HIIT e pesi e recupero della frequenza cardiaca (Eur J Appl Physiol) | allenamento con attrezzi e intensità, studio su 43 persone, attrezzo non mio | Qigong nel deficit cognitivo lieve e nello scompenso cardiaco (Appl Neuropsychol Adult, J Cardiovasc Nurs) | popolazione clinica, popolazione non mia | Tai Chi nel dolore muscolo-scheletrico cronico (Curr Rheumatol Rep) | dolore cronico clinico | Pilates e guida in autisti anziani (Physiother Res Int) | gruppo professionale specifico, popolazione non mia | Pilates nella fibromialgia e in gravidanza (Clin Rheumatol, Health Care Women Int) | condizione clinica | Rilascio miofasciale e kinesiotaping nella cefalea cervicogenica (Disabil Rehabil) | condizione clinica | Pilates, Tai Chi, fascia, equilibrio, circolazione, Cinema, Musica Rock | nessuna altra notizia utile verificabile a questo giro. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
   "giornate": [
-    {
-      "data": "2026-10-10",
-      "nome": "Giornata Mondiale della Salute Mentale",
-      "url": "https://www.who.int/campaigns/world-mental-health-day",
-      "fonte": "OMS",
-      "perche": "Si lega a sonno, respiro e recupero, cioè ai pilastri Cronobiologia e Recupero Attivo & Rigenerazione."
-    },
     {
       "data": "2026-10-16",
       "nome": "Giornata Mondiale della Colonna Vertebrale",
@@ -18,9 +11,9 @@
     }
   ],
   "articolo_suggerito": {
-    "news_id": "2026-10-09-longevita-allenamento-orario-over-65",
-    "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-47-orologio-energetico-cronobiologia.html",
-    "motivo": "La notizia riguarda il momento della giornata in cui ci si allena, tema dell'articolo sull'orologio del Daoyin e la cronobiologia."
+    "news_id": "2026-10-12-sonno-24ore-movimento-mortalita",
+    "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-62-dormire-non-e-fermarsi.html",
+    "motivo": "La notizia mostra che il modo di dividere sonno, riposo e movimento conta per la salute; l'articolo spiega che dormire non è fermarsi ma parte del recupero."
   },
   "items": [
     {
@@ -58,6 +51,24 @@
       "voto_motivo": "Risultato nullo ma utile e onesto per sfatare l'idea dell'orario perfetto; popolazione di adulti attivi e sani, vicina ai clienti dello studio.",
       "cautela": "Studio su una sola sede, 12 settimane, allenamento con pesi e cyclette (non Reformer). Dice che l'orario non ha fatto differenza chiara, non che sia sempre irrilevante.",
       "verifica": "Aperto il record PubMed (PMID 42791208): titolo, abstract con numeri, autori (Bruggisser, Ritter, Roth e altri), data ottobre 2026 e DOI 10.1002/jcsm.70390."
+    },
+    {
+      "id": "2026-10-12-sonno-24ore-movimento-mortalita",
+      "settore": "Sonno & Recupero",
+      "titolo": "Come si distribuisce la giornata di 24 ore tra sonno, stare fermi e movimento: legame con la mortalità e ruolo del sonno",
+      "url": "https://doi.org/10.1093/aje/kwag249",
+      "fonte": "American Journal of Epidemiology (Oxford University Press)",
+      "data": "2026-10-07",
+      "aggiunta": "2026-10-12",
+      "livello": "primaria",
+      "tipo_fonte": "Studio di coorte prospettico su UK Biobank, PubMed PMID 42841221",
+      "sintesi": "Su 68.995 adulti seguiti in media 8 anni, i ricercatori hanno confrontato come si divide la giornata tra sonno, sedentarietà, stare in piedi e movimento. Spostare 30 minuti dalla sedentarietà al sonno o al movimento risulta associato a un rischio di mortalità più favorevole, con differenze legate a durata e regolarità del sonno.",
+      "perche": "Spunto per una Mini Class o un'email su sonno regolare e movimento nella giornata: lega Cronobiologia e Recupero Attivo & Rigenerazione e sostiene il messaggio che dormire bene e muoversi non sono alternative.",
+      "pilastro": "Cronobiologia",
+      "voto_biscardi": 3,
+      "voto_motivo": "Utile come cornice sul rapporto tra ritmo del sonno e movimento quotidiano per adulti attivi, ma è uno studio osservazionale di popolazione, non sulla pratica dello studio.",
+      "cautela": "Solo associazione: non prova un nesso causale e non dice di dormire meno o di più. Dati misurati con dispositivi da polso nello studio, nessun prodotto consigliato.",
+      "verifica": "Aperto il record PubMed (PMID 42841221) con abstract completo, autori (Università di Sydney, UCL e altri), data online 07/10/2026 e DOI 10.1093/aje/kwag249."
     }
   ]
 }
