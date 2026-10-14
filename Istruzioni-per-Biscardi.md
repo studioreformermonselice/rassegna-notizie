@@ -110,3 +110,9 @@ I 5 pilastri devono essere sempre presenti e riconoscibili a colpo d'occhio, sia
 - Email chiara: frasi corte, titoli grandi, niente note tecniche in vista; i messaggi di servizio per Mirko (cosa manca) vanno in una scatola separata in cima, marcata "Per Mirko, da togliere prima dell'invio".
 - Colori e icone dei pilastri: se Mirko li ha definiti (cerca un file Drive intitolato "Pilastri grafica"), usa quelli; altrimenti niente colori inventati: usa solo contrasto (pieno/attenuato) e i nomi.
 - Pagina Rassegna: la grafica si aggiorna quando Mirko fornisce il codice della pagina; fino ad allora segnalalo nel campo "note" di notizie.json solo se la pagina non mostra i 5 pilastri.
+
+## 15. Anagrafica clienti: solo colonne C, D, E (deciso da Mirko il 14/10/2026)
+- Unica fonte per nomi ed età: il foglio Google Drive con id 1I6BNKmQcnWn96zDtlAOiTdcsHO5vyVYQWXjDPGFXZbI ("ANAMNESI PT - da aprile 2024 a oggi"). Si leggono SOLO tre colonne: C = Nome, D = Cognome, E = Data di nascita. Tutte le altre colonne (indirizzo, telefono, email, codice fiscale, dati sanitari) non si usano, non si copiano, non si citano in bozze, note o commit.
+- Il nome di battesimo e SEMPRE quello della colonna C (esempio: Flami Franco = nome Flami, cognome Franco). Il saluto di ogni email usa la colonna C. Mai ricavare nome e cognome dai titoli del calendario.
+- Il foglio non ha la colonna "Mini Class": per sapere chi partecipa a una MC si confrontano i nomi degli eventi del Google Calendar con le colonne C e D. Se un nome non coincide con certezza o la data di nascita manca, non si conta come over 70 e lo si scrive nella scatola "Per Mirko, da togliere prima dell'invio".
+- Date di nascita anomale (per esempio anno 0056) si ignorano e si segnalano nella stessa scatola.
