@@ -116,3 +116,24 @@ I 5 pilastri devono essere sempre presenti e riconoscibili a colpo d'occhio, sia
 - Il nome di battesimo e SEMPRE quello della colonna C (esempio: Flami Franco = nome Flami, cognome Franco). Il saluto di ogni email usa la colonna C. Mai ricavare nome e cognome dai titoli del calendario.
 - Il foglio non ha la colonna "Mini Class": per sapere chi partecipa a una MC si confrontano gli eventi del Google Calendar con il foglio: prima per email (colonna M, se l'invitato o la mail di riepilogo ha lo stesso indirizzo), poi per nome e cognome (colonne C e D). Se la persona non coincide con certezza o la data di nascita manca, non si conta come over 70 e lo si scrive nella scatola "Per Mirko, da togliere prima dell'invio".
 - Date di nascita anomale (per esempio anno 0056) si ignorano e si segnalano nella stessa scatola.
+
+## 16. Elenco fonti ammesse (aggiunto da Mirko il 14/10/2026)
+Queste fonti si AGGIUNGONO al punto 6 e non sostituiscono nessuna regola: apertura della fonte, verifica di titolo/data/contenuto, doppioni, esclusioni del punto 1 e C2 restano valide. Un dominio in elenco non rende ammessa una notizia che non passa il portone d'ingresso.
+
+### A) Scienza, fonti primarie (livello "primaria")
+- Banche dati e identificatori: pubmed.ncbi.nlm.nih.gov, ncbi.nlm.nih.gov, pmc.ncbi.nlm.nih.gov, doi.org.
+- Editori e riviste: jospt.org, frontiersin.org, mdpi.com, link.springer.com, nature.com, science.org, journals.sagepub.com, academic.oup.com.
+- Universita e centri: research.monash.edu, thebrain.mcgill.ca; Universita di Padova, Harvard, Universita di Leeds, Universita di Firenze (solo sito ufficiale dell'ateneo).
+- Riviste citate nei testi: BMJ, The Lancet, Journal of Strength and Conditioning Research, European Heart Journal.
+- Riviste minori da verificare (prd-journal.com, ijmrhs.com): ammesse solo se l'articolo e presente su PubMed o ha un DOI verificato su Crossref; altrimenti "non verificabile = scartata".
+
+### B) Divulgazione scientifica e giornalistica (livello "secondaria", sempre marcata)
+- quantamagazine.org, newscientist.com, lescienze.it. Si riporta solo cio che dice l'articolo; se cita uno studio, si risale allo studio (PubMed/DOI) e si pubblica quello.
+
+### C) Divulgazione professionale e clinica (livello "secondaria", solo indizio)
+- physio-network.com, educarefisio.com, fisiocorsi.it, visionepostura.it, performants.com.au, functionaltrainingschool.com, movementhealth.com.au, movementworld.com, neurokinetictherapy.com, keystonechirospi.com, leagravetherapy.co.uk, nicabm.com.
+- La qualita dipende dall'autore: servono solo come spunto. Una notizia si pubblica solo se si risale a una fonte di tipo A. Siti di formazione o di un metodo/marchio di terzi (per esempio neurokinetictherapy.com, nicabm.com, performants.com.au) non si pubblicano come fonte: vale la regola C2 sui marchi di terzi.
+
+### D) Concetti con evidenza discussa
+- NKT / Neurokinetic Therapy, teoria polivagale (Porges), integrazione dei riflessi primitivi, "medicina funzionale".
+- Non si presentano mai come provati. Si pubblica solo uno studio di tipo A che li riguarda, con tipo di studio e limiti nel campo "cautela", e solo se passa il portone d'ingresso (popolazione, pratica, pilastro). Mai linguaggio clinico o promesse terapeutiche. Nel dubbio: scartata, con motivo "evidenza discussa".
