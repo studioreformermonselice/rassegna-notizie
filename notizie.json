@@ -1,20 +1,8 @@
 {
- "aggiornato": "2026-10-16T06:10:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Pilates e fibromialgia, tai chi nei trapiantati renali, yoga in fibrosi polmonare | popolazione non mia | Realtà virtuale e vestibolo in giovani sani | realtà virtuale e gioco | Forza del ginocchio e orario del giorno in giovani sani | limite 2 notizie a settimana per Sonno & Recupero già raggiunto | Retatrutide | farmaci. Nessuna novità utile verificabile per Dimagrimento, Stagione & Circolazione, Cinema, Musica Rock. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
- "giornate": [
-  {
-   "data": "2026-10-16",
-   "nome": "Giornata Mondiale della Colonna Vertebrale",
-   "url": "https://www.worldspineday.org",
-   "fonte": "World Spine Day (sito ufficiale)",
-   "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
-  }
- ],
- "articolo_suggerito": {
-  "news_id": "2026-10-16-equilibrio-perturbazioni-visive-over70",
-  "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-48-equilibrio-gallo-oro-rischio-cadute.html",
-  "motivo": "La notizia mostra come vista e sistema nervoso entrano nell'equilibrio; l'articolo sul Gallo d'Oro lega equilibrio e rischio cadute a una pratica antica di movimento."
- },
+ "aggiornato": "2026-10-19T06:10:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news). Ricerca dal 16/10 al 19/10. Scartate: Pilates e miofasciale in teleriabilitazione per fibromialgia | popolazione non mia | Medicina tradizionale cinese per mal di schiena cronico | condizione clinica | Social jetlag in coorte con dispositivi indossabili | dispositivi di terzi | Cinema, Musica Rock, Stagione & Circolazione, Dimagrimento & Metabolismo: nessuna novita utile verificata. Giornate: nessuna confermata sul sito ufficiale. Articolo del sito: nessuno si lega bene, tema nuovo suggerito: Tai Chi e Baduanjin per l'equilibrio.",
+ "giornate": [],
+ "articolo_suggerito": null,
  "items": [
   {
    "id": "2026-10-16-equilibrio-perturbazioni-visive-over70",
@@ -141,6 +129,42 @@
    "voto_motivo": "Utile come cornice sul rapporto tra ritmo del sonno e movimento quotidiano per adulti attivi, ma è uno studio osservazionale di popolazione, non sulla pratica dello studio.",
    "cautela": "Solo associazione: non prova un nesso causale e non dice di dormire meno o di più. Dati misurati con dispositivi da polso nello studio, nessun prodotto consigliato.",
    "verifica": "Aperto il record PubMed (PMID 42841221) con abstract completo, autori (Università di Sydney, UCL e altri), data online 07/10/2026 e DOI 10.1093/aje/kwag249."
+  },
+  {
+   "id": "2026-10-19-equilibrio-mindbody-cadute-over-adulti",
+   "settore": "Equilibrio & Longevità",
+   "titolo": "Tai Chi, Baduanjin e Wuqinxi: meno rischio di caduta e miglior equilibrio negli anziani (meta-analisi di 31 studi)",
+   "url": "https://doi.org/10.1097/MD.0000000000051150",
+   "fonte": "Medicine (PubMed 42888580)",
+   "data": "2026-10-16",
+   "aggiunta": "2026-10-19",
+   "livello": "primaria",
+   "tipo_fonte": "Revisione sistematica e meta-analisi di 31 studi randomizzati (3622 partecipanti)",
+   "sintesi": "Le pratiche tradizionali cinesi del movimento si associano a punteggi di rischio di caduta piu bassi e a punteggi di equilibrio (Berg) piu alti rispetto ai gruppi di controllo. Effetti presenti sia per Baduanjin sia per Tai Chi.",
+   "perche": "Conferma il valore di Qigong e Tai Chi come complemento alle sessioni per equilibrio e controllo posturale: spunto per una Mini Class sull'equilibrio.",
+   "pilastro": "Stimolazione Neurale",
+   "voto_biscardi": 4,
+   "voto_motivo": "Meta-analisi recente su pratiche gradite allo studio, direttamente collegabile a una Mini Class sull'equilibrio.",
+   "cautela": "Eterogeneita molto alta sul Berg (I2 95,6%): l'entita dell'effetto varia molto tra gli studi. Pratica da proporre come complemento alle sessioni, mai come sostituto.",
+   "verifica": "Record PubMed 42888580 aperto: titolo, data (16/10/2026), DOI e abstract controllati."
+  },
+  {
+   "id": "2026-10-19-sonno-attivita-sedentarieta-invecchiamento",
+   "settore": "Sonno & Recupero",
+   "titolo": "Attivita fisica, sedentarieta e qualita del sonno: legame con gli orologi biologici dell'invecchiamento",
+   "url": "https://doi.org/10.1007/s11357-026-02592-2",
+   "fonte": "GeroScience (PubMed 42891778)",
+   "data": "2026-10-17",
+   "aggiunta": "2026-10-19",
+   "livello": "primaria",
+   "tipo_fonte": "Studio osservazionale trasversale su 890 adulti (20-102 anni), solo associazione",
+   "sintesi": "Nelle persone piu anziane un buon livello di attivita fisica si associa a un legame meno sfavorevole tra sonno peggiorato e accelerazione dell'invecchiamento biologico. Stare meno seduti aiuta nello stesso senso.",
+   "perche": "Spunto per raccontare ai clienti che muoversi con regolarita e dormire bene lavorano insieme: aggancio a recupero e Mini Class.",
+   "pilastro": "Recupero Attivo & Rigenerazione",
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile come messaggio sul legame movimento-sonno, ma solo associativo e basato su questionari.",
+   "cautela": "Solo associazione, non prova un nesso causale. Attivita e sonno misurati con questionari.",
+   "verifica": "Record PubMed 42891778 aperto: titolo, data (17/10/2026), DOI e abstract controllati."
   }
  ]
 }
