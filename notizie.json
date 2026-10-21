@@ -1,21 +1,67 @@
 {
- "aggiornato": "2026-10-16T06:10:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Pilates e fibromialgia, tai chi nei trapiantati renali, yoga in fibrosi polmonare | popolazione non mia | Realtà virtuale e vestibolo in giovani sani | realtà virtuale e gioco | Forza del ginocchio e orario del giorno in giovani sani | limite 2 notizie a settimana per Sonno & Recupero già raggiunto | Retatrutide | farmaci. Nessuna novità utile verificabile per Dimagrimento, Stagione & Circolazione, Cinema, Musica Rock. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
- "giornate": [
-  {
-   "data": "2026-10-16",
-   "nome": "Giornata Mondiale della Colonna Vertebrale",
-   "url": "https://www.worldspineday.org",
-   "fonte": "World Spine Day (sito ufficiale)",
-   "perche": "Si lega al movimento e al Metodo Pilates su Reformer, con lavoro su colonna, postura e mobilità."
-  }
- ],
+ "aggiornato": "2026-10-21T06:05:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Pilates e lombalgia cronica con terapia cognitiva | popolazione non mia | Pilates e incontinenza da sforzo | popolazione non mia | Esercizio e sonno in adulti con disturbi del sonno | popolazione non mia | Exercise snacks in donne con sovrappeso | attrezzo non mio, campione piccolo | Sistema autonomo e melatonina in 10 giovani | voto sotto 3. Nessuna novità utile verificabile per Stagione & Circolazione, Cinema, Musica Rock. Nessuna giornata mondiale confermata nei prossimi 14 giorni. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
+ "giornate": [],
  "articolo_suggerito": {
-  "news_id": "2026-10-16-equilibrio-perturbazioni-visive-over70",
+  "news_id": "2026-10-21-equilibrio-mindbody-cadute-metaanalisi",
   "articolo_url": "https://www.mirkoboaretto.it/articoli/articolo-48-equilibrio-gallo-oro-rischio-cadute.html",
-  "motivo": "La notizia mostra come vista e sistema nervoso entrano nell'equilibrio; l'articolo sul Gallo d'Oro lega equilibrio e rischio cadute a una pratica antica di movimento."
+  "motivo": "La meta-analisi su Tai Chi, Baduanjin e Wuqinxi si lega all'articolo sul Gallo d'Oro, equilibrio vecchio di duemila anni, complemento alle sessioni."
  },
  "items": [
+  {
+   "id": "2026-10-21-equilibrio-mindbody-cadute-metaanalisi",
+   "settore": "Equilibrio & Longevità",
+   "titolo": "Tai Chi, Baduanjin e Wuqinxi: meta-analisi di 31 studi su equilibrio e rischio di caduta negli adulti più anziani",
+   "url": "https://doi.org/10.1097/MD.0000000000051150",
+   "fonte": "Medicine (Baltimore) (Wan, Guo, Liang et al.)",
+   "data": "2026-10-16",
+   "aggiunta": "2026-10-21",
+   "livello": "primaria",
+   "tipo_fonte": "Revisione sistematica con meta-analisi di studi randomizzati, PubMed",
+   "sintesi": "31 studi randomizzati con 3622 partecipanti: i gruppi che praticavano Tai Chi, Baduanjin o Wuqinxi hanno ottenuto punteggi migliori nei test di rischio caduta e nella scala di equilibrio di Berg rispetto ai controlli. L'eterogeneità tra studi è molto alta.",
+   "perche": "Spunto per Mini Class ed email: le pratiche cinesi del movimento come complemento alle sessioni per allenare equilibrio e attenzione al corpo.",
+   "pilastro": "Stimolazione Neurale",
+   "voto_biscardi": 4,
+   "voto_motivo": "Si lega a Daoyin e Qigong, parole d'oro, con un numero ampio di studi.",
+   "cautela": "Evidenza di certezza bassa e molto eterogenea (I2 95,6% sulla scala di Berg); studi in prevalenza cinesi. Complemento alle sessioni, mai sostituto. Popolazione anziana: per le email MC solo con almeno 3 persone sopra i 70.",
+   "verifica": "Record PubMed e DOI Crossref aperti: titolo, autori, data 2026-10-16 e abstract controllati."
+  },
+  {
+   "id": "2026-10-21-sonno-attivita-orologi-biologici",
+   "settore": "Sonno & Recupero",
+   "titolo": "Movimento e sonno insieme: in 890 adulti, più attività fisica si associa a un invecchiamento biologico più lento, anche quando il sonno peggiora",
+   "url": "https://doi.org/10.1007/s11357-026-02592-2",
+   "fonte": "GeroScience (Raffin, Rolland, Guyonnet et al., coorte INSPIRE-T)",
+   "data": "2026-10-17",
+   "aggiunta": "2026-10-21",
+   "livello": "primaria",
+   "tipo_fonte": "Studio trasversale su coorte, PubMed",
+   "sintesi": "890 adulti da 20 a 102 anni: nelle persone più anziane, un livello più alto di attività fisica attenuava l'associazione tra sonno peggiorato e invecchiamento accelerato misurato con orologi biologici. Il tempo seduto è risultato associato in senso sfavorevole.",
+   "perche": "Spunto per articolo ed email: sonno e movimento lavorano insieme, un collegamento naturale tra Recupero Attivo & Rigenerazione e Cronobiologia.",
+   "pilastro": "Recupero Attivo & Rigenerazione",
+   "voto_biscardi": 4,
+   "voto_motivo": "Lega sonno e movimento con un messaggio semplice e spendibile con i clienti adulti.",
+   "cautela": "Solo associazione: studio trasversale, attività e sonno misurati con questionari; non prova un nesso causale. Età fino a 102 anni: per le email MC solo con almeno 3 persone sopra i 70.",
+   "verifica": "Record PubMed e DOI Crossref aperti: titolo, autori, data 2026-10-17 e abstract controllati."
+  },
+  {
+   "id": "2026-10-21-metabolismo-orario-esercizio-orologio-muscolo",
+   "settore": "Dimagrimento & Metabolismo",
+   "titolo": "Quando ti alleni conta: una revisione su orario dell'esercizio, orologi biologici del muscolo e salute metabolica",
+   "url": "https://doi.org/10.1080/07420528.2026.2750361",
+   "fonte": "Chronobiology International (Aykora, Erbil, Aykora)",
+   "data": "2026-10-19",
+   "aggiunta": "2026-10-21",
+   "livello": "primaria",
+   "tipo_fonte": "Revisione narrativa, PubMed",
+   "sintesi": "La revisione riassume come l'esercizio agisca da segnale che regola gli orologi del muscolo e come fasi diverse della giornata attivino vie metaboliche diverse. Gli autori segnalano che le prove dirette sull'uomo sono ancora limitate.",
+   "perche": "Spunto sulla Cronobiologia per articolo ed email: orario, luce e ritmo contano come la qualità del movimento.",
+   "pilastro": "Cronobiologia",
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile per raccontare la cronobiologia, ma revisione narrativa con molto meccanismo e poca prova sull'uomo.",
+   "cautela": "Revisione narrativa, in gran parte meccanismi cellulari: nessuna indicazione pratica su orari di allenamento da questa fonte.",
+   "verifica": "Record PubMed e DOI aperti: titolo, autori, data 2026-10-19 e abstract controllati."
+  },
   {
    "id": "2026-10-16-equilibrio-perturbazioni-visive-over70",
    "settore": "Equilibrio & Longevità",
