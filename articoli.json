@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-20T10:52:16Z",
+ "aggiornato": "2026-10-22T06:52:02Z",
  "note": "Generato dallo script di pubblicazione del sito",
  "articoli": [
   {
@@ -440,6 +440,27 @@
    "numero": 63,
    "titolo": "Reformer e Sistema Neurofasciale: Cosa Sappiamo e Cosa È Ancora Ipotesi",
    "url": "https://www.mirkoboaretto.it/articoli/articolo-63-reformer-neurofasciale-cosa-sappiamo.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 64,
+   "titolo": "Osteoporosi, cause e sintomi: come imparare a riconoscerla",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-64-giornata-mondiale-osteoporosi.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 65,
+   "titolo": "Prevenzione osteoporosi: come migliorare l'alimentazione",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-65-osteoporosi-prevenzione-alimentazione.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 66,
+   "titolo": "Attività fisica e osteoporosi: il segreto è il carico",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-66-osteoporosi-attivita-fisica.html",
    "data": "2026-10",
    "data_da": "mese nell'articolo"
   }
