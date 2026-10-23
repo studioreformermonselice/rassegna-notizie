@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-23T08:43:50Z",
+ "aggiornato": "2026-10-23T10:28:26Z",
  "note": "Generato dallo script di pubblicazione del sito",
  "articoli": [
   {
@@ -462,6 +462,27 @@
    "titolo": "Attività fisica e osteoporosi: il segreto è il carico",
    "url": "https://www.mirkoboaretto.it/articoli/articolo-66-osteoporosi-attivita-fisica.html",
    "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 67,
+   "titolo": "Alleni una Gamba, si Rinforza Anche l'Altra",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-67-alleni-una-gamba-si-rinforza-anche-laltra.html",
+   "data": "2026-06",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 68,
+   "titolo": "La Tua Firma con l'Altra Mano è Storta, ma è Tua",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-68-la-firma-con-laltra-mano.html",
+   "data": "2026-07",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 69,
+   "titolo": "Braccio nel Gesso: Come Perdere Meno Forza Mentre è Fermo",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-69-braccio-nel-gesso-perdere-meno-forza.html",
+   "data": "2026-08",
    "data_da": "mese nell'articolo"
   },
   {
