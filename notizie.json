@@ -1,6 +1,6 @@
 {
- "aggiornato": "2026-10-21T06:05:00Z",
- "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Pilates e lombalgia cronica con terapia cognitiva | popolazione non mia | Pilates e incontinenza da sforzo | popolazione non mia | Esercizio e sonno in adulti con disturbi del sonno | popolazione non mia | Exercise snacks in donne con sovrappeso | attrezzo non mio, campione piccolo | Sistema autonomo e melatonina in 10 giovani | voto sotto 3. Nessuna novità utile verificabile per Stagione & Circolazione, Cinema, Musica Rock. Nessuna giornata mondiale confermata nei prossimi 14 giorni. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
+ "aggiornato": "2026-10-23T05:58:00Z",
+ "note": "Aggiornato da Biscardi (agente Rassegna news). Scartate: Pilates e lombalgia cronica | popolazione non mia | Pilates e fibromialgia in teleriabilitazione | popolazione non mia | Esercizio e sonno in veterani con PTSD | popolazione non mia | Mat Pilates in autisti professionisti | popolazione non mia | Tai Chi, autostima e orgoglio in praticanti | voto sotto 3. Nessuna novita utile verificabile per Pilates & Movimento, Dimagrimento & Metabolismo, Equilibrio & Longevita, Stagione & Circolazione, Cinema, Musica Rock. Nessuna giornata mondiale confermata nei prossimi 14 giorni. Esercizio MC da scrivere a mano nella bozza email MC. Pagina Rassegna non verificabile da Biscardi.",
  "giornate": [],
  "articolo_suggerito": {
   "news_id": "2026-10-21-equilibrio-mindbody-cadute-metaanalisi",
@@ -8,6 +8,24 @@
   "motivo": "La meta-analisi su Tai Chi, Baduanjin e Wuqinxi si lega all'articolo sul Gallo d'Oro, equilibrio vecchio di duemila anni, complemento alle sessioni."
  },
  "items": [
+  {
+   "id": "2026-10-23-sonno-orario-esercizio-metaanalisi",
+   "settore": "Sonno & Recupero",
+   "titolo": "A che ora allenarsi? Meta-analisi su orario dell'esercizio, sonno e umore",
+   "url": "https://doi.org/10.3389/fpsyg.2026.1933599",
+   "fonte": "Frontiers in Psychology (Hu e Chen, Nanjing Normal University)",
+   "data": "2026-09-25",
+   "aggiunta": "2026-10-23",
+   "livello": "primaria",
+   "tipo_fonte": "Revisione sistematica con meta-analisi a tre livelli (13 studi randomizzati)",
+   "sintesi": "Per il sonno non emerge un orario di esercizio (mattina, pomeriggio, sera) stabilmente migliore. Conta fare esercizio piu che l'ora esatta; per l'umore c'e un segnale a favore del pomeriggio, ma basato su soli due studi.",
+   "perche": "Spunto per Mini Class e email: l'orario ideale e quello che si riesce a mantenere con costanza, il ritmo sonno-veglia resta la guida.",
+   "pilastro": "Cronobiologia",
+   "voto_biscardi": 3,
+   "voto_motivo": "Utile per rispondere a chi chiede a che ora allenarsi, ma evidenza non robusta e campione eterogeneo.",
+   "cautela": "Meta-analisi di studi randomizzati: effetto sul sonno non confermato con inferenza robusta (CR2); segnale sull'umore fragile (2 studi). Nessuna promessa terapeutica.",
+   "verifica": "Record PubMed 42857179 e DOI su Crossref verificati: titolo, data 25/09/2026, abstract."
+  },
   {
    "id": "2026-10-21-equilibrio-mindbody-cadute-metaanalisi",
    "settore": "Equilibrio & Longevità",
