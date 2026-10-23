@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-22T06:52:02Z",
+ "aggiornato": "2026-10-23T08:43:50Z",
  "note": "Generato dallo script di pubblicazione del sito",
  "articoli": [
   {
@@ -461,6 +461,13 @@
    "numero": 66,
    "titolo": "Attività fisica e osteoporosi: il segreto è il carico",
    "url": "https://www.mirkoboaretto.it/articoli/articolo-66-osteoporosi-attivita-fisica.html",
+   "data": "2026-10",
+   "data_da": "mese nell'articolo"
+  },
+  {
+   "numero": 70,
+   "titolo": "Cinque Persone, una Sirenetta e il Lato che Sembrava Più Forte",
+   "url": "https://www.mirkoboaretto.it/articoli/articolo-70-il-lato-che-sembrava-piu-forte.html",
    "data": "2026-10",
    "data_da": "mese nell'articolo"
   }
