@@ -1,0 +1,62 @@
+name: Biscardi - unisci il ramo in main
+
+# Biscardi (agente Rassegna news) puo scrivere solo su un ramo suo, claude/<nome>-<codice>.
+# La pagina Rassegna legge pero main. Questo controllo, appena arriva un ramo di Biscardi,
+# verifica che i file JSON siano validi, lo unisce in main e poi cancella il ramo.
+# Se qualcosa non torna (JSON rotto, conflitto) NON unisce niente e lascia il ramo dov'e:
+# GitHub segna il controllo come fallito e avvisa chi ha il repository.
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: biscardi-unisci-in-main
+  cancel-in-progress: false
+
+jobs:
+  unisci:
+    # Solo i rami con il commit firmato da Biscardi; altri rami claude/... non si toccano.
+    if: startsWith(github.event.head_commit.message, 'Biscardi - Rassegna news')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica il ramo
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Controlla che notizie.json e articoli.json siano JSON validi
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          for nome in ("notizie.json", "articoli.json"):
+              try:
+                  dati = json.load(open(nome, encoding="utf-8"))
+              except Exception as e:
+                  sys.exit(f"{nome} non e un JSON valido: {e}")
+          n = json.load(open("notizie.json", encoding="utf-8"))
+          if "aggiornato" not in n or not isinstance(n.get("items"), list):
+              sys.exit("notizie.json senza 'aggiornato' o senza elenco 'items'")
+          print("JSON validi. aggiornato =", n["aggiornato"], "| notizie =", len(n["items"]))
+          PY
+
+      - name: Unisci in main e cancella il ramo
+        env:
+          RAMO: ${{ github.ref_name }}
+        run: |
+          set -e
+          git config user.name "Biscardi (unione automatica)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -B main origin/main
+          if ! git merge --no-ff "origin/${RAMO}" -m "Unione automatica del ramo ${RAMO} in main"; then
+            git merge --abort || true
+            echo "Conflitto: il ramo ${RAMO} NON e stato unito. Va risolto a mano." >&2
+            exit 1
+          fi
+          git push origin main
+          git push origin --delete "${RAMO}"
