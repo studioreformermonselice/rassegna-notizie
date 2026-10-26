@@ -1,0 +1,68 @@
+name: Pulizia - cancella i rami claude/ dopo 5 giorni
+
+# Ogni giro di Biscardi crea un ramo claude/<nome>-<codice>. Il controllo "Biscardi - unisci il ramo
+# in main" li cancella appena li unisce, ma quelli rimasti (per esempio per un conflitto) o quelli
+# vecchi non sparirebbero mai. Questo controllo, una volta al giorno, cancella ogni ramo claude/...
+# il cui ultimo commit ha piu di 5 giorni. GitHub non conserva la data di creazione del ramo:
+# si usa la data dell'ultimo commit (per i rami di Biscardi, di un solo giro, coincide).
+# Prima di cancellare scrive nel registro il codice (sha) di ogni ramo, cosi si puo ritrovare.
+# Mai toccato: main e qualunque ramo che non comincia per claude/.
+#
+# Prova a secco: Actions > "Pulizia - cancella i rami claude/ dopo 5 giorni" > Run workflow >
+# prova = true. Elenca cosa cancellerebbe, senza cancellare niente.
+
+on:
+  schedule:
+    - cron: '17 4 * * *'   # ogni giorno alle 04:17 UTC (05:17 o 06:17 in Italia)
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: 'true = solo elenco, non cancella nulla'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+# Stesso gruppo del controllo di unione: i due non girano mai insieme.
+concurrency:
+  group: biscardi-unisci-in-main
+  cancel-in-progress: false
+
+jobs:
+  pulisci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica il repository con tutti i rami
+        uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Elenca e cancella i rami claude/ piu vecchi di 5 giorni
+        env:
+          PROVA: ${{ github.event.inputs.prova }}
+        run: |
+          set -e
+          ADESSO=$(date +%s)
+          LIMITE=$((5 * 24 * 60 * 60))
+          git fetch origin main
+          echo "Modalita prova: ${PROVA:-false}"
+          git for-each-ref --format='%(refname:short) %(objectname) %(committerdate:unix)' refs/remotes/origin/claude/ |
+          while read -r ramo sha quando; do
+            nome="${ramo#origin/}"
+            eta=$((ADESSO - quando))
+            giorni=$((eta / 86400))
+            if [ "$eta" -lt "$LIMITE" ]; then
+              echo "TIENE     $nome | $giorni giorni"
+              continue
+            fi
+            if git merge-base --is-ancestor "$sha" origin/main; then
+              stato="gia in main"
+            else
+              stato="NON in main"
+            fi
+            echo "CANCELLA  $nome | sha $sha | $giorni giorni | $stato"
+            if [ "$PROVA" != "true" ]; then
+              git push origin --delete "$nome"
+            fi
+          done
