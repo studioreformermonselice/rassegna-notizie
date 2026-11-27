@@ -1,6 +1,6 @@
 {
-  "aggiornato": "2026-11-25T06:00:00Z",
-  "note": "Aggiornato da Biscardi (agente Rassegna news). Giro del 25/11/2026, finestra dal 22/11. Pubblicata 1 notizia (Equilibrio & Longevita); gli altri settori senza novita utili. Giornate mondiali: nessuna confermata legata ai pilastri nei prossimi 14 giorni. Nessuna segnalazione 'Segnala:'. Scartate 25/11: Respirazione lenta 8 settimane, 109 adulti (prova debole, esercizio quotidiano da fare a casa da soli) | Allenamento funzionale 6 sessioni/settimana in donne 60-75 anni (attrezzo non mio, non replicabile) | Pilates e sclerosi multipla (popolazione non mia) | Musica Rock e Cinema: nessuna notizia verificata da fonte primaria.",
+  "aggiornato": "2026-11-27T06:00:00Z",
+  "note": "Aggiornato da Biscardi (agente Rassegna news). Giro del 27/11/2026, finestra dal 24/11. Pubblicata 1 notizia (Sonno & Recupero); gli altri settori senza novita utili. Giornate mondiali: nessuna confermata legata ai pilastri nei prossimi 14 giorni. Nessuna segnalazione 'Segnala:'. Scartate 27/11: Aggiustamenti posturali su superficie rigida e schiuma, 44 uomini sani giovani e anziani (laboratorio con perturbazioni, poco replicabile nello studio, voto 2) | Pilates e sclerosi multipla (popolazione non mia) | Pilates e fatica con terapia cognitivo-comportamentale (popolazione clinica) | Pilates e dismenorrea con TENS (dispositivo elettrico, fuori pilastri) | Musica Rock e Cinema: nessuna notizia verificata da fonte primaria.",
   "giornate": [],
   "articolo_suggerito": {
     "news_id": "2026-11-18-metabolismo-sonno-insufficiente-ritmi-circadiani-revisione",
@@ -385,6 +385,24 @@
       "voto_motivo": "Pratica cinese del movimento utile da raccontare come complemento, ma e solo un questionario senza gruppo di confronto.",
       "cautela": "Solo associazione: miglioramenti percepiti e riferiti dai praticanti, senza gruppo di controllo. Non prova un nesso causale.",
       "verifica": "Record PubMed 43072450 e DOI su Crossref controllati: titolo, rivista, data (23/11/2026), autori e abstract."
+    },
+    {
+      "id": "2026-11-27-sonno-mindfulness-esercizio-regolarita-sonno-over-indagine",
+      "settore": "Sonno & Recupero",
+      "titolo": "Attenzione presente durante l'esercizio, regolarita del sonno e benessere psicologico negli adulti anziani",
+      "url": "https://doi.org/10.3389/fpubh.2026.1971311",
+      "fonte": "Frontiers in Public Health (PubMed 43094580)",
+      "data": "2026-11-26",
+      "aggiunta": "2026-11-27",
+      "livello": "primaria",
+      "tipo_fonte": "Indagine trasversale su 486 adulti anziani residenti in comunita (Guangdong, Cina)",
+      "sintesi": "Chi dichiara di essere piu presente e attento mentre si muove riferisce anche un sonno piu regolare, maggiore autocontrollo e migliore qualita di vita. Questi aspetti risultano a loro volta associati a benessere mentale e resilienza psicologica.",
+      "perche": "Spunto per Mini Class ed email: fare l'esercizio con attenzione al respiro e alla sensazione del movimento si lega al ritmo sonno-veglia e al recupero.",
+      "pilastro": "Cronobiologia",
+      "voto_biscardi": 3,
+      "voto_motivo": "Utile come spunto sul valore dell'attenzione durante il movimento, ma e un'indagine con questionari e non una prova.",
+      "cautela": "Solo associazione: studio trasversale con questionari auto-compilati, non dimostra un nesso causale; campione cinese volontario.",
+      "verifica": "Record PubMed 43094580 aperto: titolo, data (26/11/2026), disegno e risultati controllati; DOI 10.3389/fpubh.2026.1971311."
     }
   ]
 }
